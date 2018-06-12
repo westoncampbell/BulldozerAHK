@@ -485,10 +485,6 @@ MapSet(LevelNumber) {
 	Gui, Show,, Bulldozer - Level %CurrentLevel% ; Update window title
 }
 
-F1::
-
-return
-
 Move(X, Y) {
 	Global ; Assume-global mode
 

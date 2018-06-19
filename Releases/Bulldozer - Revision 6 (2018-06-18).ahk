@@ -1,13 +1,13 @@
-﻿; Script Information ===========================================================
-; Name:			Bulldozer
-; Description:	Bulldozer is a clone of the original Bulldozer 1, Bulldozer 2,
-; 				and Bulldozer 3 games created by John Hattan (The Code Zone).
-; AHK Version:	1.1.29.01
-; OS Version:	Windows XP+
-; Language:		English (United States)
-; Author:		Weston Campbell <westoncampbell@gmail.com>
-; Filename:		Bulldozer.ahk
-; Website:		https://autohotkey.com/boards/viewtopic.php?f=6&t=50139
+; Script Information ===========================================================
+; Name:         Bulldozer
+; Description:  Bulldozer is a clone of the original Bulldozer 1, Bulldozer 2,
+;               and Bulldozer 3 games created by John Hattan (The Code Zone).
+; AHK Version:  1.1.29.01
+; OS Version:   Windows XP+
+; Language:     English (United States)
+; Author:       Weston Campbell <westoncampbell@gmail.com>
+; Filename:     Bulldozer.ahk
+; Website:      https://autohotkey.com/boards/viewtopic.php?f=6&t=50139
 ; ==============================================================================
 
 ; Revision History =============================================================

@@ -1,4 +1,4 @@
-﻿; Script Information ===========================================================
+; Script Information ===========================================================
 ; Name:         Bulldozer
 ; Description:  Bulldozer is a clone of the original Bulldozer 1, Bulldozer 2,
 ;               and Bulldozer 3 games created by John Hattan (The Code Zone).
@@ -492,7 +492,7 @@ GuiCreate() {
 	Gui, Add, Text, x0 y+20 w640 r1 0x201, Bulldozer
 
 	Gui, Font, c404040 S11 Norm, Arial
-	Gui, Add, Text, xp y+10 wp r1 0x201, Revision 7 (2018-07-23)
+	Gui, Add, Text, xp y+10 wp r1 0x201, Revision 8 (2018-07-26)
 	Gui, Add, Text, xp y+40 wp hp 0x201, Bulldozer is a clone of the original Bulldozer 1, Bulldozer 2, and Bulldozer 3
 	Gui, Add, Text, xp y+10 wp hp 0x201, games created by John Hattan (The Code Zone).
 	Gui, Add, Text, xp y+40 wp hp 0x201, Developed for AutoHotkey by:

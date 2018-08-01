@@ -1,4 +1,4 @@
-﻿; Script Information ===========================================================
+; Script Information ===========================================================
 ; Name:         Bulldozer
 ; Description:  Bulldozer is a clone of the original Bulldozer 1, Bulldozer 2,
 ;               and Bulldozer 3 games created by John Hattan (The Code Zone).
@@ -585,6 +585,7 @@ MenuHandler(ItemName, ItemPos, MenuName) {
 
 			If (CurrentTab <> "Game") {
 				GuiSelectTab("Game")
+				GuiControl, Focus, CtlFocus
 			}
 		} Else If (InStr(ItemName, "&Level Select")) {
 			If (CurrentTab <> "LevelSelect") {
@@ -676,6 +677,7 @@ ControlHandler() {
 			GuiControlGet, LSLVCurrent,, % A_GuiControl
 			MapSet(StrReplace(LSLVCurrent, "LS_"))
 			GuiSelectTab("Game")
+			GuiControl, Focus, CtlFocus
 		} Else If (InStr(A_GuiControl, "LSBD")) {
 			BDBtn := SubStr(A_GuiControl, 0, 1)
 
@@ -696,10 +698,12 @@ ControlHandler() {
 			LSCurrent := BDBtn
 		} Else If (A_GuiControl = "LevelSelectCancel") {
 			GuiSelectTab("Game")
+			GuiControl, Focus, CtlFocus
 		}
 	} Else If (CurrentTab = "About") {
 		If (A_GuiControl = "AboutOK") {
 			GuiSelectTab("Game")
+			GuiControl, Focus, CtlFocus
 		} Else If (A_GuiControl = "AboutWebsite") {
 			Run, https://autohotkey.com/boards/viewtopic.php?f=6&t=50139
 		}
@@ -741,6 +745,7 @@ WM_KEYDOWN(wParam, lParam, Msg, Hwnd) {
 	If (CurrentTab <> "Game") {
 		If (VK = "1B") { ; ESC
 			GuiSelectTab("Game")
+			GuiControl, Focus, CtlFocus
 		} Else If (VK = "9") { ; Tab
 			If (FocusedControl = "AboutWebsite") {
 				Send, {Right}

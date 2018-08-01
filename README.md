@@ -1,4 +1,4 @@
-# BulldozerAHK
+# Bulldozer
 
 Bulldozer is a clone of the original Bulldozer 1, Bulldozer 2, and Bulldozer 3 games created by John Hattan ([The Code Zone](https://www.thecodezone.com/)).
 

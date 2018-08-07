@@ -610,10 +610,10 @@ MenuHandler(ItemName, ItemPos, MenuName) {
 			}
 		} Else If (InStr(ItemName, "&Level Select")) {
 			If (CurrentTab <> "LevelSelect") {
-				CheckFlag()
 				GuiSelectTab("LevelSelect", "FFFFFF")
 				GuiControl, Focus, LevelSelectCancel
 				GuiControl, +Default, LevelSelectCancel
+				CheckFlag()
 			}
 		} Else If (InStr(ItemName, "&Undo Last Move")) {
 			If (Undo := UndoArray.Pop()) {

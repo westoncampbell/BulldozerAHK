@@ -63,7 +63,7 @@
 #SingleInstance, Force ; Allow only one running instance of script
 #Persistent ; Keep the script permanently running until terminated
 #NoEnv ; Avoid checking empty variables for environment variables
-;#NoTrayIcon ; Disable the tray icon of the script
+#NoTrayIcon ; Disable the tray icon of the script
 #KeyHistory, 0 ; Disable history of keystrokes & mouse clicks
 SetWorkingDir, % A_ScriptDir ; Set the working directory of the script
 SetBatchLines, -1 ; Run script at maximum speed

@@ -1,5 +1,5 @@
 # Bulldozer Rules
----
+
 ### Object of the Game
 The object of Bulldozer is to push each rock on to a target.  Put all the rocks on the target and progress to the next level.  See how many levels you can complete!
 

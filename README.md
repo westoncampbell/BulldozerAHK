@@ -41,9 +41,9 @@ The object of Bulldozer is to push all of the rocks to the targets. Move the bul
 <br>
 
 ## Download
-The latest release can be found at the following location:
+All releases can be found on the BulldozerAHK Github repository:
 
-https://github.com/westoncampbell/BulldozerAHK/tree/master/Releases
+![Github](https://i.imgur.com/GBrEWOd.png) https://github.com/westoncampbell/BulldozerAHK/tree/master/Releases
 
 <br>
 

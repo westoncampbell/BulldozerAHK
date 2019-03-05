@@ -4,14 +4,12 @@ WORK IN PROGRESS
 
 # Bulldozer
 
-![Image1](https://i.imgur.com/IVhq34V.png) ## Game Objective
-
-# ![Image1](https://i.imgur.com/IVhq34V.png) Game Objective 
+## ![Image1](https://i.imgur.com/IVhq34V.png) Game Objective 
 The object of Bulldozer is to push each rock on to a target.
 
 <br>
 
-## Movement
+## ![Image1](https://i.imgur.com/IVhq34V.png) Movement
 Move the bulldozer using the arrow keys, or WASD keys, on your keyboard. The bulldozer can move horizontally and vertically.
 
 ![Image1](https://i.imgur.com/aFz4lhZ.png)

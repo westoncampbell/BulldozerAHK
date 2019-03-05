@@ -6,8 +6,6 @@ NOTE: This text is not yet complete. I am taking the original help file text of 
 ## Game Objective
 The object of Bulldozer is to push each rock on to a target. Progress to the next level by moving all of the rocks to the targets.
 
----
-
 ## Making a Move
 Move the bulldozer using the arrow keys, or WASD keys, on your keyboard. The bulldozer can move horizontally and vertically.
 

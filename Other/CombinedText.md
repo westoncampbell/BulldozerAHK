@@ -75,6 +75,5 @@ A rock is not locked into position once it is placed on a target.
 	Choose from one of the 16 presets or use the custom color picker.
 
 #### Theme
-	Change the appearance of the game objects by choosing from the
-	"Color" or"Monochrome" options, or use your own theme by selecting an
+	Change the appearance of the game objects by choosing from the "Color" or"Monochrome" options, or use your own theme by selecting an
 	external PNG image file.

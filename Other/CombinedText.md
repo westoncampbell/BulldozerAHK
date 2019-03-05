@@ -7,6 +7,8 @@ WORK IN PROGRESS
 ## Game Objective
 The object of Bulldozer is to push each rock on to a target.
 
+<br>
+
 ## Movement
 Move the bulldozer using the arrow keys, or WASD keys, on your keyboard. The bulldozer can move horizontally and vertically.
 
@@ -38,8 +40,12 @@ The bulldozer will not move if one of the following three conditions are true:
 
 ![Image6](https://i.imgur.com/pfcdTys.png)
 
+<br>
+
 ## Completing a Level
 Progress to the next level by moving all of the rocks on to the targets. Each level will have the same number of rocks as targets.
+
+<br>
 
 ## Hints
 Carefully plan your moves. It's easy to get stuck which may force you to restart the level.
@@ -100,3 +106,16 @@ A rock is not locked into position once it is placed on a target.
 
 #### About Bulldozer
 	Open the 'About' screen, displaying information related to the current version of the game.
+
+<br>
+
+## Hotkeys
+Several actions in the game can be triggered using a hotkey. See below for a complete list of active hotkeys:
+
+|   Description   | Hotkey |
+|-----------------|--------|
+| Restart Level   | F2     |
+| Level Select    | F3     |
+| Exit            | Alt+F4 |
+| About Bulldozer | F1     |
+| Save Screenshot | F12    |

@@ -94,7 +94,6 @@ A rock is not locked into position once it is placed on a target.
 #### Taskbar Progress
 	Toggle the display [ProgressBar] of the current level progress in the game taskbar item.
 
-
 ### Help
 #### Website...
-	Open the game topic on the AutoHotkey Forum website in your default web browser.
+	Open the game website in the default web browser.

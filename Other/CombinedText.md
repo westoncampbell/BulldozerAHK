@@ -119,51 +119,26 @@ A rock is not locked into position once it is placed on a target.
 ## Hotkeys
 Several actions in the game can be triggered using a hotkey. See below for a complete list of active hotkeys:
 
-### Game
-|     **Description**     | **Hotkey** |
-|-------------------------|------------|
-| **Restart Level**       | `F2`       |
-| **Level Select**        | `F3`       |
-| **Exit**                | `Alt`+`F4` |
-| **About Bulldozer**     | `F1`       |
-| **Save Screenshot**     | `F12`      |
-| **Minimize Window**     | `Space`    |
-| **Previous Level**      | `PgUp`     |
-| **Next Level**          | `PgDn`     |
-| **Next Level**          | `PgDn`     |
-| **Move Up**             | `↑`, `W`, `LMouse` |
-| **Move Left**           | `←`, `A`, `LMouse` |
-| **Move Down**           | `↓`, `S`, `LMouse` |
-| **Move Right**          | `→`, `D`, `LMouse` |
-
-
-### Basic Actions
-|     **Description**     | **Hotkey** |
-|-------------------------|------------|
-| **Restart Level**       | `F2`       |
-| **Level Select**        | `F3`       |
-| **Exit**                | `Alt`+`F4` |
-| **About Bulldozer**     | `F1`       |
-| **Save Screenshot**     | `F12`      |
-| **Hide Window**         | `Space`    |
-| **Close Screen/Window** | `Esc`      |
-| **Default Action**      | `Enter`    |
-| **Previous Level**      | `PgUp`     |
-| **Next Level**          | `PgDn`     |
-
-### 'Level Select' Screen
-|     **Description**     | **Hotkey** |
-|-------------------------|------------|
-| **Select Previous Level**      | `↑` or `←`     |
-| **Select Next Level**          | `↓` or `→`     |
-| **Select Previous Level (x5)**      | `PgUp`     |
-| **Select Next Level (x5)**          | `PgDn`     |
-| **Select First Level** | `Home`  |
-| **Select Last Level**  | `End`   |
-| **Load Selected Level**	| `Enter` |
-
-
-
-
-
-
+**Description**	**Area**	**Hotkey**
+**Restart Level**	Game	`F2`
+**Level Select**	Game	`F3`
+**Exit**	Game, Level Select, About Bulldozer	`Alt`+`F4`
+**About Bulldozer**	Game, Level Select	`F1`
+**Save Screenshot**	Game	`F12`
+**Minimize Window**	Game, Level Select, About Bulldozer	`Space`
+**Previous Level**	Game	`PgUp`
+**Next Level**	Game	`PgDn`
+**Next Level**	Game	`PgDn`
+**Hide Screen**	Game	`Esc`
+**Move Up**	Game	`↑`, `W`, `LMouse`
+**Move Left**	Game	`←`, `A`, `LMouse`
+**Move Down**	Game	`↓`, `S`, `LMouse`
+**Move Right**	Game	`→`, `D`, `LMouse`
+**Default Action**	About Bulldozer, Level Select	`Enter`
+**Select Previous Level**	Level Select	`↑`, `←`
+**Select Next Level**	Level Select	`↓`, `→`
+**Select Previous Level (x5)**	Level Select	`PgUp`
+**Select Next Level (x5)**	Level Select	`PgDn`
+**Select First Level**	Level Select	`Home`
+**Select Last Level**	Level Select	`End`
+**Load Selected Level**	Level Select	`Enter`

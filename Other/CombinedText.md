@@ -1,6 +1,6 @@
 # Bulldozer
 
-
+<br>
 
 ## Index
 * [Game Objective ](#game-objective )
@@ -27,6 +27,7 @@
 	* [Help](#help)
 		* [Website...](#website...)
 		* [About Bulldozer](#about-bulldozer)
+* [Hotkeys](#hotkeys)
 	 
 <br>
 

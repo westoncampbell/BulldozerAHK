@@ -17,7 +17,9 @@ The bulldozer will not move if one of the following three conditions are true:
 ![Image2](https://i.imgur.com/Mr4a0q7.png)
 
 You can only push one rock at a time!
-<br><br>
+
+<br>
+
 (2) You are pushing against a wall. . .
 
 ![Image3](https://i.imgur.com/Xecqy3B.png)

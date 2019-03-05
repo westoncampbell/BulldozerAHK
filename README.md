@@ -47,6 +47,12 @@ All releases can be found on the BulldozerAHK Github repository:
 
 <br>
 
+## Screenshots
+
+[![SS1](https://i.imgur.com/AAbuHC8m.png)](https://i.imgur.com/AAbuHC8.png)
+
+<br>
+
 ## Game Objective
 The object of Bulldozer is to push each rock on to a target.
 

@@ -11,6 +11,18 @@ The object of Bulldozer is to push all of the rocks to the targets. Move the bul
 
 <br>
 
+## Download
+All releases can be found on the BulldozerAHK Github repository:
+
+![Github](https://i.imgur.com/GBrEWOd.png) https://github.com/westoncampbell/BulldozerAHK/tree/master/Releases
+
+<br>
+
+## Screenshots
+[![SS1](https://i.imgur.com/AAbuHC8m.png)](https://i.imgur.com/AAbuHC8.png) [![SS2](https://i.imgur.com/jT5npylm.png)](https://i.imgur.com/jT5npyl.png) [![SS3](https://i.imgur.com/1qKREr7m.png)](https://i.imgur.com/1qKREr7.png) [![SS4](https://i.imgur.com/N5Cz5gVm.png)](https://i.imgur.com/N5Cz5gV.png) [![SS5](https://i.imgur.com/KfkMfY5m.png)](https://i.imgur.com/KfkMfY5.png) [![SS6](https://i.imgur.com/sz4v0kAm.png)](https://i.imgur.com/sz4v0kA.png) [![SS7](https://i.imgur.com/Wq6HIeBm.png)](https://i.imgur.com/Wq6HIeB.png) [![SS8](https://i.imgur.com/XkQej3bm.png)](https://i.imgur.com/XkQej3b.png)
+
+<br>
+
 ## Index
 * [Game Objective](#game-objective)
 * [Movement](#movement)
@@ -37,19 +49,6 @@ The object of Bulldozer is to push all of the rocks to the targets. Move the bul
 		* [Website...](#website)
 		* [About Bulldozer](#about-bulldozer)
 * [Hotkeys](#hotkeys)
-
-<br>
-
-## Download
-All releases can be found on the BulldozerAHK Github repository:
-
-![Github](https://i.imgur.com/GBrEWOd.png) https://github.com/westoncampbell/BulldozerAHK/tree/master/Releases
-
-<br>
-
-## Screenshots
-
-[![SS1](https://i.imgur.com/AAbuHC8m.png)](https://i.imgur.com/AAbuHC8.png) [![SS2](https://i.imgur.com/jT5npylm.png)](https://i.imgur.com/jT5npyl.png) [![SS3](https://i.imgur.com/1qKREr7m.png)](https://i.imgur.com/1qKREr7.png) [![SS4](https://i.imgur.com/N5Cz5gVm.png)](https://i.imgur.com/N5Cz5gV.png) [![SS5](https://i.imgur.com/KfkMfY5m.png)](https://i.imgur.com/KfkMfY5.png) [![SS6](https://i.imgur.com/sz4v0kAm.png)](https://i.imgur.com/sz4v0kA.png) [![SS7](https://i.imgur.com/Wq6HIeBm.png)](https://i.imgur.com/Wq6HIeB.png) [![SS8](https://i.imgur.com/XkQej3bm.png)](https://i.imgur.com/XkQej3b.png)
 
 <br>
 

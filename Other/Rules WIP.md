@@ -4,7 +4,7 @@ NOTE: This text is not yet complete. I am taking the original help file text of 
 # Bulldozer Rules
 
 ## Game Objective
-The object of Bulldozer is to push each rock on to a target. Progress to the next level by moving all of the rocks to the targets.
+The object of Bulldozer is to push each rock on to a target.
 
 <br>
 
@@ -48,11 +48,11 @@ The bulldozer will not move if one of the following three conditions are true:
 <br>
 
 ## How To Complete a Level
-The level is completed when each rock has been pushed on to a target. Each level will have the same number of rocks as targets.
+Progress to the next level by moving all of the rocks on to the targets. Each level will have the same number of rocks as targets.
 
 <br>
 
 ## Hints
-Carefully plan your moves. It is easy to get stuck which will make you have to restart the level.
+Carefully plan your moves. It's easy to get stuck which may force you to restart the level.
 
-A rock is not locked into position once it is placed on a target. It is okay to push rocks off a target. Sometimes you will have to!
+A rock is not locked into position once it is placed on a target.

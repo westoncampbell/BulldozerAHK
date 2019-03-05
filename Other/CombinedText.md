@@ -55,3 +55,7 @@ A rock is not locked into position once it is placed on a target.
 **Undo Last Move**
 
       Move any objects from your recent move to their previous positions.
+
+**Exit**
+
+      Completely close the game.

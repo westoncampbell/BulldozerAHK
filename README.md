@@ -10,8 +10,8 @@ The object of Bulldozer is to push all of the rocks to the targets. Move the bul
 <br>
 
 ![Image1](https://i.imgur.com/ZIEXAqj.png)
-
 <br>
+
 ## Index
 * [Game Objective](#game-objective)
 * [Movement](#movement)

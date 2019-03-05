@@ -119,7 +119,6 @@ A rock is not locked into position once it is placed on a target.
 ## Hotkeys
 Several actions in the game can be triggered using a hotkey. See below for a complete list of active hotkeys:
 
-
 |   **Description**   | **Hotkey** |
 |---------------------|------------|
 | **Restart Level**   | `F2`       |
@@ -127,4 +126,4 @@ Several actions in the game can be triggered using a hotkey. See below for a com
 | **Exit**            | `Alt`+`F4` |
 | **About Bulldozer** | `F1`       |
 | **Save Screenshot** | `F12`      |
-
+| **Minimize Window** | `Spacebar` |

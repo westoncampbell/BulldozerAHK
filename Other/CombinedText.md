@@ -2,8 +2,7 @@
 
 
 
-Table of contents
-=================
+## Index
 * [Game Objective ](#game-objective )
 * [Movement](#movement)
 * [Completing a Level](#completing-a-level)

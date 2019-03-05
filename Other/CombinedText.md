@@ -122,11 +122,8 @@ Several actions in the game can be triggered using a hotkey. See below for a com
 |        **Description**         |              **Area**               |     **Hotkey**     |
 |--------------------------------|-------------------------------------|--------------------|
 | **Restart Level**              | Game                                | `F2`               |
-| **Level Select**               | Game                                | `F3`               |
-| **Exit**                       | Game, Level Select, About Bulldozer | `Alt`+`F4`         |
-| **About Bulldozer**            | Game, Level Select                  | `F1`               |
+| **Open 'Level Select' Screen**               | Game                                | `F3`               |
 | **Save Screenshot**            | Game                                | `F12`              |
-| **Minimize Window**            | Game, Level Select, About Bulldozer | `Space`            |
 | **Previous Level**             | Game                                | `PgUp`             |
 | **Next Level**                 | Game                                | `PgDn`             |
 | **Next Level**                 | Game                                | `PgDn`             |
@@ -135,7 +132,16 @@ Several actions in the game can be triggered using a hotkey. See below for a com
 | **Move Left**                  | Game                                | `←`, `A`, `LMouse` |
 | **Move Down**                  | Game                                | `↓`, `S`, `LMouse` |
 | **Move Right**                 | Game                                | `→`, `D`, `LMouse` |
+
+
+| **Exit**                       | Game, Level Select, About Bulldozer | `Alt`+`F4`         |
+| **Minimize Window**            | Game, Level Select, About Bulldozer | `Space`            |
 | **Default Action**             | About Bulldozer, Level Select       | `Enter`            |
+| **About Bulldozer**            | Game, Level Select                  | `F1`               |
+
+
+
+
 | **Select Previous Level**      | Level Select                        | `↑`, `←`           |
 | **Select Next Level**          | Level Select                        | `↓`, `→`           |
 | **Select Previous Level (x5)** | Level Select                        | `PgUp`             |

@@ -129,11 +129,13 @@ Several actions in the game can be triggered using a hotkey. See below for a com
 | **Hide Window**         | `Space`    |
 | **Close Screen/Window** | `Esc`      |
 
+
 | **Description** | **Hotkey** |
 |-----------------|------------|
-| **Move Up**     | `↑`        |
-| **Move Left**   |            |
-| **Move Down**   |            |
-| **Move Right**  |            |
+| **Move Up**     | `↑` / `W`  |
+| **Move Left**   | `←` / `A`  |
+| **Move Down**   | `↓` / `S`  |
+| **Move Right**  | `→` / `D`  |
+
 
 

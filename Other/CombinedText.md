@@ -119,6 +119,24 @@ A rock is not locked into position once it is placed on a target.
 ## Hotkeys
 Several actions in the game can be triggered using a hotkey. See below for a complete list of active hotkeys:
 
+### Game
+|     **Description**     | **Hotkey** |
+|-------------------------|------------|
+| **Restart Level**       | `F2`       |
+| **Level Select**        | `F3`       |
+| **Exit**                | `Alt`+`F4` |
+| **About Bulldozer**     | `F1`       |
+| **Save Screenshot**     | `F12`      |
+| **Minimize Window**     | `Space`    |
+| **Previous Level**      | `PgUp`     |
+| **Next Level**          | `PgDn`     |
+| **Next Level**          | `PgDn`     |
+| **Move Up**             | `↑`, `W`, `LMouse` |
+| **Move Left**           | `←`, `A`, `LMouse` |
+| **Move Down**           | `↓`, `S`, `LMouse` |
+| **Move Right**          | `→`, `D`, `LMouse` |
+
+
 ### Basic Actions
 |     **Description**     | **Hotkey** |
 |-------------------------|------------|
@@ -142,16 +160,8 @@ Several actions in the game can be triggered using a hotkey. See below for a com
 | **Select Next Level (x5)**          | `PgDn`     |
 | **Select First Level** | `Home`  |
 | **Select Last Level**  | `End`   |
+| **Load Selected Level**	| `Enter` |
 
-
-
-### Bulldozer Movement
-| **Description** | **Hotkey** |
-|-----------------|------------|
-| **Move Up**     | `↑` or `W` |
-| **Move Left**   | `←` or `A` |
-| **Move Down**   | `↓` or `S` |
-| **Move Right**  | `→` or `D` |
 
 
 

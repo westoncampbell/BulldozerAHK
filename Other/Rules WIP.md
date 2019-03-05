@@ -36,7 +36,7 @@ Be careful about pushing rocks against walls. The rock might become stuck, and y
 
 ![Image5](https://i.imgur.com/yBjsOwB.png)
 
-Pushing rocks against walls may be necessary.  In the following setup, you made the same move as the one described above; however, in this case you can reach the target!
+However, it may still be possible to reach the target depending on its position.
 
 ![Image6](https://i.imgur.com/pfcdTys.png)
 

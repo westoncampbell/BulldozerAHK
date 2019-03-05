@@ -1,8 +1,6 @@
-# WORK IN PROGRESS
----
-<br><br><br>
-
 # Bulldozer
+
+<br>
 
 ## Game Objective 
 The object of Bulldozer is to push each rock on to a target.

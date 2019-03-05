@@ -1,5 +1,3 @@
-# Bulldozer Rules
-
 ## Game Objective
 The object of Bulldozer is to push each rock on to a target.
 

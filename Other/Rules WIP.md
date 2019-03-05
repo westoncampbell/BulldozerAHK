@@ -26,6 +26,8 @@ You can only push one rock at a time!
 
 The bulldozer can't move through walls.
 
+<br>
+
 (3) You are pushing a rock against a wall. . .
 
 ![Image4](https://i.imgur.com/KV91Ukv.png)

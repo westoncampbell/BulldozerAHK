@@ -70,9 +70,13 @@ A rock is not locked into position once it is placed on a target.
 #### Exit
 	Completely close the game.
 
+<br>
+
 ### View
 #### Layered Tiles
 	Toggle drawing of objects on top of the background elements for custom themes using transparency.
+
+<br>
 
 ### Options
 #### Background Color
@@ -100,6 +104,8 @@ A rock is not locked into position once it is placed on a target.
 
 #### Taskbar Progress
 	Toggle the display [ProgressBar] of the current level progress in the game taskbar item.
+
+<br>
 
 ### Help
 #### Website...

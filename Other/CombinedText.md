@@ -133,10 +133,10 @@ Several actions in the game can be triggered using a hotkey. See below for a com
 
 | **Description** | **Hotkey** |
 |-----------------|------------|
-| **Move Up**     | `↑` OR `W` |
-| **Move Left**   | `←` OR `A` |
-| **Move Down**   | `↓` OR `S` |
-| **Move Right**  | `→` OR `D` |
+| **Move Up**     | `↑` or `W` |
+| **Move Left**   | `←` or `A` |
+| **Move Down**   | `↓` or `S` |
+| **Move Right**  | `→` or `D` |
 
 
 

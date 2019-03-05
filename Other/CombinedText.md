@@ -32,7 +32,8 @@ The bulldozer will not move if one of the following three conditions are true:
 
 ![Image4](https://i.imgur.com/KV91Ukv.png)
 
-	Be careful about pushing rocks against walls. The rock might become stuck, and you'll be forced to restart the level.
+	Be careful about pushing rocks against walls. The rock might become stuck, and you'll be forced to restart
+	the level.
 
 ![Image5](https://i.imgur.com/yBjsOwB.png)
 

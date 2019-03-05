@@ -92,4 +92,4 @@ A rock is not locked into position once it is placed on a target.
 	Toggle the display [Text] of the current level progress in the titlebar of the game window.
 
 #### Taskbar Progress
-	Toggle the display [ProgressBar] of the current level progress in the titlebar of the game window.
+	Toggle the display [ProgressBar] of the current level progress in the game taskbar item.

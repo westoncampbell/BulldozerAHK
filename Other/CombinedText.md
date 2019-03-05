@@ -4,7 +4,7 @@
 
 Table of contents
 =================
-   * [Game Objective ](#game-objective )
+* [Game Objective ](#game-objective )
    * [Movement](#movement)
    * [Completing a Level](#completing-a-level)
    * [Hints](#hints)
@@ -25,6 +25,9 @@ Table of contents
 	 * [Mouse Movement](#mouse-movement)
 	 * [Titlebar Progress](#titlebar-progress)
 	 * [Taskbar Progress](#taskbar-progress)
+      * [Help](#help)
+	 * [Website...](#website...)
+	 * [About Bulldozer](#about-bulldozer)
 	 
 <br>
 

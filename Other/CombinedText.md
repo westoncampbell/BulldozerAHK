@@ -1,10 +1,12 @@
 WORK IN PROGRESS
 ---
----
+---https://i.imgur.com/IVhq34V.png
 
 # Bulldozer
 
-## Game Objective
+![Image1](https://i.imgur.com/IVhq34V.png) ## Game Objective
+
+## ![Image1](https://i.imgur.com/IVhq34V.png) Game Objective 
 The object of Bulldozer is to push each rock on to a target.
 
 <br>
@@ -115,7 +117,7 @@ Several actions in the game can be triggered using a hotkey. See below for a com
 
 |   Description   | Hotkey |
 |-----------------|--------|
-| Restart Level   | F2     |
+| Restart Level   | `F2`     |
 | Level Select    | F3     |
 | Exit            | Alt+F4 |
 | About Bulldozer | F1     |

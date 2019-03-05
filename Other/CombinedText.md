@@ -128,3 +128,12 @@ Several actions in the game can be triggered using a hotkey. See below for a com
 | **Save Screenshot**     | `F12`      |
 | **Hide Window**         | `Space`    |
 | **Close Screen/Window** | `Esc`      |
+
+| **Description** | **Hotkey** |
+|-----------------|------------|
+| **Move Up**     | `↑`        |
+| **Move Left**   |            |
+| **Move Down**   |            |
+| **Move Right**  |            |
+
+

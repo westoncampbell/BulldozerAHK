@@ -116,7 +116,7 @@ A rock is not locked into position once it is placed on a target.
 Several actions in the game can be triggered using a hotkey. See below for a complete list of active hotkeys:
 
 
-|   Description   |   Hotkey   |
+| **Description** | **Hotkey** |
 |-----------------|------------|
 | Restart Level   | `F2`       |
 | Level Select    | `F3`       |

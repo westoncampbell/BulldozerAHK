@@ -49,7 +49,7 @@ All releases can be found on the BulldozerAHK Github repository:
 
 ## Screenshots
 
-[![SS1](https://i.imgur.com/AAbuHC8m.png)](https://i.imgur.com/AAbuHC8.png)
+[![SS1](https://i.imgur.com/AAbuHC8m.png)](https://i.imgur.com/AAbuHC8.png) [![SS2](https://i.imgur.com/jT5npylm.png)](https://i.imgur.com/jT5npyl.png) [![SS3](https://i.imgur.com/1qKREr7m.png)](https://i.imgur.com/1qKREr7.png) [![SS4](https://i.imgur.com/N5Cz5gVm.png)](https://i.imgur.com/N5Cz5gV.png) [![SS5](https://i.imgur.com/KfkMfY5m.png)](https://i.imgur.com/KfkMfY5.png) [![SS6](https://i.imgur.com/sz4v0kAm.png)](https://i.imgur.com/sz4v0kA.png) [![SS7](https://i.imgur.com/Wq6HIeBm.png)](https://i.imgur.com/Wq6HIeB.png) [![SS8](https://i.imgur.com/XkQej3bm.png)](https://i.imgur.com/XkQej3b.png)
 
 <br>
 

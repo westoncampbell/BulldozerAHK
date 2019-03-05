@@ -1,5 +1,18 @@
 # Bulldozer
 
+
+
+Table of contents
+=================
+   * [Game Objective ](#game-objective )
+   * [Movement](#movement)
+   * [Completing a Level](#completing-a-level)
+   * [Hints](#hints)
+   * [Menubar](#menubar)
+      * [Game](#game)
+     	 * [Restart Level](#restart-level)   
+
+
 <br>
 
 ## Game Objective 

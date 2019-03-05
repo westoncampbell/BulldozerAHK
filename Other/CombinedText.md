@@ -52,8 +52,7 @@ A rock is not locked into position once it is placed on a target.
 ### Game
 
 #### Restart Level
-	Reset the level, moving all of the objects to their original starting
-	positions.
+	Reset the level, moving all of the objects to their original starting positions.
 
 #### Level Select
 	Navigate to any of the included 180 levels.
@@ -66,13 +65,11 @@ A rock is not locked into position once it is placed on a target.
 
 ### View
 #### Layered Tiles
-	Enable drawing objects on top of background elements. Useful for custom
-	themes using transparency.
+	Enable drawing objects on top of background elements. Useful for custom themes using transparency.
 
 ### Options
 #### Background Color
-	Set the color of the background behind the game objects.
-	Choose from one of the 16 presets or use the custom color picker.
+	Set the color of the background behind the game objects. Choose from one of the 16 presets or use the custom color picker.
 
 #### Theme
 	Change the appearance of the game objects by choosing from the "Color" or"Monochrome" options, or use your

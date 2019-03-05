@@ -10,9 +10,22 @@ Table of contents
    * [Hints](#hints)
    * [Menubar](#menubar)
       * [Game](#game)
-     	 * [Restart Level](#restart-level)   
-
-
+     	 * [Restart Level](#restart-level)
+	 * [Level Select](#level-select)
+	 * [Undo Last Move](#undo-last-move)
+	 * [Exit](#exit)
+      * [View](#view)
+     	 * [Layered Tiles](#layered-tiles)
+      * [Options](#options) 
+     	 * [Background Color](#background-color) 
+     	 * [Theme](#theme)
+	 * [Sound Effects](#sound-effects)
+	 * [Level Number](#level-number)
+	 * [Unlimited Undo](#unlimited-undo)
+	 * [Mouse Movement](#mouse-movement)
+	 * [Titlebar Progress](#titlebar-progress)
+	 * [Taskbar Progress](#taskbar-progress)
+	 
 <br>
 
 ## Game Objective 

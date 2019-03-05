@@ -1,3 +1,5 @@
+<h1 align="center">Bulldozer</h1>
+
 ## Game Objective
 The object of Bulldozer is to push each rock on to a target.
 

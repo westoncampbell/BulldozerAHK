@@ -34,7 +34,7 @@ The object of Bulldozer is to push all of the rocks to the targets. Move the bul
 		* [Titlebar Progress](#titlebar-progress)
 		* [Taskbar Progress](#taskbar-progress)
 	* [Help](#help)
-		* [Website...](#website...)
+		* [Website...](#website)
 		* [About Bulldozer](#about-bulldozer)
 * [Hotkeys](#hotkeys)
 

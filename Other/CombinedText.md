@@ -6,7 +6,7 @@ WORK IN PROGRESS
 
 ![Image1](https://i.imgur.com/IVhq34V.png) ## Game Objective
 
-## ![Image1](https://i.imgur.com/IVhq34V.png) Game Objective 
+# ![Image1](https://i.imgur.com/IVhq34V.png) Game Objective 
 The object of Bulldozer is to push each rock on to a target.
 
 <br>

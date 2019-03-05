@@ -43,12 +43,8 @@ However, it may still be possible to reach the target depending on its position.
 
 ![Image6](https://i.imgur.com/pfcdTys.png)
 
----
-
 ## How To Complete a Level
 The level is completed when each rock has been pushed on to a target. Each level will have the same number of rocks as targets.
-
----
 
 ## Hints
 Carefully plan your moves. It is easy to get stuck which will make you have to restart the level.

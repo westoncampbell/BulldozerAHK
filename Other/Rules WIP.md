@@ -21,7 +21,7 @@ The bulldozer will not move if one of the following three conditions are true:
 
 ![Image2](https://i.imgur.com/Mr4a0q7.png)
 
-You can only push one rock at a time!
+*You can only push one rock at a time!*
 
 <br>
 
@@ -29,7 +29,7 @@ You can only push one rock at a time!
 
 ![Image3](https://i.imgur.com/Xecqy3B.png)
 
-The bulldozer can't move through walls.
+*The bulldozer can't move through walls.*
 
 <br>
 
@@ -37,11 +37,11 @@ The bulldozer can't move through walls.
 
 ![Image4](https://i.imgur.com/KV91Ukv.png)
 
-Be careful about pushing rocks against walls. The rock might become stuck, and you'll be forced to restart the level.
+*Be careful about pushing rocks against walls. The rock might become stuck, and you'll be forced to restart the level.*
 
 ![Image5](https://i.imgur.com/yBjsOwB.png)
 
-However, it may still be possible to reach the target depending on its position.
+*However, it may still be possible to reach the target depending on its position.*
 
 ![Image6](https://i.imgur.com/pfcdTys.png)
 

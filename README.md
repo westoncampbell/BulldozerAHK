@@ -24,8 +24,8 @@ The object of Bulldozer is to push all of the rocks to the targets. Move the bul
 		* [Exit](#exit)
 	* [View](#view)
 		* [Layered Tiles](#layered-tiles)
-	* [Options](#options) 
-		* [Background Color](#background-color) 
+	* [Options](#options)
+		* [Background Color](#background-color)
 		* [Theme](#theme)
 		* [Sound Effects](#sound-effects)
 		* [Level Number](#level-number)
@@ -40,7 +40,14 @@ The object of Bulldozer is to push all of the rocks to the targets. Move the bul
 
 <br>
 
-## Game Objective 
+## Download
+The latest release can be found at the following location:
+
+https://github.com/westoncampbell/BulldozerAHK/tree/master/Releases
+
+<br>
+
+## Game Objective
 The object of Bulldozer is to push each rock on to a target.
 
 <br>

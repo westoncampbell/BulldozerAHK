@@ -2,8 +2,7 @@ WORK IN PROGRESS
 ---
 ---
 
-
-<h1 align="center">Bulldozer</h1>
+# Bulldozer
 
 ## Game Objective
 The object of Bulldozer is to push each rock on to a target.
@@ -49,13 +48,13 @@ A rock is not locked into position once it is placed on a target.
 
 
 
-## Menubar
-### Game
+# Menubar
+## Game
 ---
-#### Restart Level
+### Restart Level
       Reset the level, moving all of the objects to their original starting positions.</p>
 
-#### Level Select
+### Level Select
       Navigate to any of the 180 levels.
 
 #### Undo Last Move

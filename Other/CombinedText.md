@@ -50,4 +50,4 @@ Reset the level, moving all of the objects to their original starting positions.
 
 **Level Select**
 
-Navigate to any of the 180 levels.
+      Navigate to any of the 180 levels.

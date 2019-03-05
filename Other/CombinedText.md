@@ -119,10 +119,11 @@ A rock is not locked into position once it is placed on a target.
 ## Hotkeys
 Several actions in the game can be triggered using a hotkey. See below for a complete list of active hotkeys:
 
+
 |          **Description**          |              **Area**               |     **Hotkey**     |
 |-----------------------------------|-------------------------------------|--------------------|
 | **Restart Level**                 | Game                                | `F2`               |
-| **Show 'Level Select' Screen**    | Game                                | `F3`               |
+| **Show 'Level Select' Screen**    | Game, About                         | `F3`               |
 | **Save Screenshot**               | Game                                | `F12`              |
 | **Load Previous Level**           | Game                                | `PgUp`             |
 | **Load Next Level**               | Game                                | `PgDn`             |

@@ -65,7 +65,7 @@ A rock is not locked into position once it is placed on a target.
 
 ### View
 #### Layered Tiles
-	Enable drawing of objects on top of the background elements for custom themes using transparency.
+	Toggle drawing of objects on top of the background elements for custom themes using transparency.
 
 ### Options
 #### Background Color
@@ -75,3 +75,21 @@ A rock is not locked into position once it is placed on a target.
 #### Theme
 	Change the appearance of the game objects by choosing the "Color" or "Monochrome" options, or using a
 	custom theme by selecting an external PNG image file.
+
+#### Sound Effects
+	Toggle sound effects.
+
+#### Level Number
+	Toggle the display of the current level number overlayed on the top-right of the game screen.
+
+#### Unlimited Undo
+	Toggle the allowance of mutliple consecutive undo actions.
+
+#### Mouse Movement
+	Toggle the movement of the bulldozer using mouse controls.
+
+#### Titlebar Progress
+	Toggle the display [Text] of the current level progress in the titlebar of the game window.
+
+#### Taskbar Progress
+	Toggle the display [ProgressBar] of the current level progress in the titlebar of the game window.

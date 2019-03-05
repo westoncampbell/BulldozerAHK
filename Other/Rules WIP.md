@@ -17,7 +17,7 @@ The bulldozer will not move if one of the following three conditions are true:
 
 <br>
 
-#### (1) You are trying to push multiple rocks...
+**(1) You are trying to push multiple rocks...**
 
 ![Image2](https://i.imgur.com/Mr4a0q7.png)
 
@@ -33,7 +33,7 @@ The bulldozer can't move through walls.
 
 <br>
 
-(3) You are pushing a rock against a wall. . .
+**(3) You are pushing a rock against a wall. . .**
 
 ![Image4](https://i.imgur.com/KV91Ukv.png)
 

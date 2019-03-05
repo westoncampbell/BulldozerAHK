@@ -136,10 +136,10 @@ Several actions in the game can be triggered using a hotkey. See below for a com
 ### 'Level Select' Screen
 |     **Description**     | **Hotkey** |
 |-------------------------|------------|
-| **Select Previous Level**      | `PgUp`     |
-| **Select Next Level**          | `PgDn`     |
-| **Previous Level**     | `PgUp`  |
-| **Next Level**         | `PgDn`  |
+| **Select Previous Level**      | `↑` or `←`     |
+| **Select Next Level**          | `↓` or `→`     |
+| **Select Previous Level (x5)**      | `PgUp`     |
+| **Select Next Level (x5)**          | `PgDn`     |
 | **Select First Level** | `Home`  |
 | **Select Last Level**  | `End`   |
 

@@ -7,6 +7,8 @@ The object of Bulldozer is to push all of the rocks to the targets. Move the bul
 
 ![Image1](https://www.autohotkey.com/boards/images/smilies/icon_arrow.gif) All credit goes to John Hattan for the original idea of the Bulldozer game series. This project was an exercise in GDI+ and string manipulation, and is intended to pay tribute to the game I played in my youth.
 
+<br>
+
 ![Image1](https://i.imgur.com/ZIEXAqj.png)
 
 <br>

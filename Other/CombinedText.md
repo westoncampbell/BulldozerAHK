@@ -48,13 +48,13 @@ A rock is not locked into position once it is placed on a target.
 
 
 
-# Menubar
-## Game
----
-### Restart Level
+## Menubar
+### Game
+
+#### Restart Level
       Reset the level, moving all of the objects to their original starting positions.</p>
 
-### Level Select
+#### Level Select
       Navigate to any of the 180 levels.
 
 #### Undo Last Move

@@ -40,12 +40,8 @@ The bulldozer will not move if one of the following three conditions are true:
 
 ![Image6](https://i.imgur.com/pfcdTys.png)
 
-<br>
-
 ## How To Complete a Level
 Progress to the next level by moving all of the rocks on to the targets. Each level will have the same number of rocks as targets.
-
-<br>
 
 ## Hints
 Carefully plan your moves. It's easy to get stuck which may force you to restart the level.

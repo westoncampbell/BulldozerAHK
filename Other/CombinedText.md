@@ -59,3 +59,8 @@ A rock is not locked into position once it is placed on a target.
 **Exit**
 
       Completely close the game.
+
+### View
+**Layered Tiles**
+
+      Enable drawing objects on top of background elements. Useful for custom themes using transparency.

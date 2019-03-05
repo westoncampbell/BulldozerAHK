@@ -46,7 +46,7 @@ Carefully plan your moves. It's easy to get stuck which may force you to restart
 
 A rock is not locked into position once it is placed on a target.
 
-
+<br>
 
 ## Menubar
 ### Game

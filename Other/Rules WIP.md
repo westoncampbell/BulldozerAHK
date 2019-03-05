@@ -1,6 +1,3 @@
-
-NOTE: This text is not yet complete. I am taking the original help file text of the original game and modifying it to my current release. This text will remain at the top until the file modifications are complete.
-
 # Bulldozer Rules
 
 ## Game Objective

@@ -97,3 +97,6 @@ A rock is not locked into position once it is placed on a target.
 ### Help
 #### Website...
 	Open the game website in the default web browser.
+
+#### About Bulldozer
+	Open the 'About' screen, displaying information related to the game (such as the current version number).

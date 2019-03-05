@@ -44,7 +44,7 @@ A rock is not locked into position once it is placed on a target.
 
 ## Menubar
 ### Game
-- Restart Level
-Test
+* Restart Level
+  Text
 
 

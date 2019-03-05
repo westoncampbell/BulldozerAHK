@@ -12,7 +12,7 @@ Move the bulldozer using the arrow keys, or WASD keys, on your keyboard. The bul
 
 The bulldozer will not move if one of the following three conditions are true:
 
-(1) You are trying to push multiple rocks...
+- You are trying to push multiple rocks...
 
 ![Image2](https://i.imgur.com/Mr4a0q7.png)
 
@@ -20,7 +20,7 @@ You can only push one rock at a time!
 
 <br>
 
-(2) You are pushing against a wall. . .
+- You are pushing against a wall. . .
 
 ![Image3](https://i.imgur.com/Xecqy3B.png)
 
@@ -28,7 +28,7 @@ The bulldozer can't move through walls.
 
 <br>
 
-(3) You are pushing a rock against a wall. . .
+- You are pushing a rock against a wall. . .
 
 ![Image4](https://i.imgur.com/KV91Ukv.png)
 

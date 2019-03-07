@@ -176,7 +176,7 @@ Several actions in the game can be triggered using a hotkey. See below for a com
 
 |          **Description**          |              **Area**               |     **Hotkey**     |
 |-----------------------------------|-------------------------------------|--------------------|
-| **Restart Level**                 | Game                                | `F2`               |
+| **Restart Level**                 | Game                                | <kbd>F2</kbd>               |
 | **Show 'Level Select' Screen**    | Game, About                         | `F3`               |
 | **Save Screenshot**               | Game                                | `F12`              |
 | **Load Previous Level**           | Game                                | `PgUp`             |

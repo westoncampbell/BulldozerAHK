@@ -4,15 +4,15 @@ Bulldozer 1 first appeared in 1994 on the CD-ROM game compilation "[24 Games for
 
 The object of Bulldozer is to push all of the rocks to the targets. Move the bulldozer using the keyboard's WASD or arrow keys. The bulldozer can only push one rock at a time, and it cannot pull rocks. You will advance to the next level when each rock has been placed on a target.
 
-![Arrow](/BulldozerAHK/Docs/Images/icon-arrow.gif) All credit goes to John Hattan for the original idea of the Bulldozer game series. This project was an exercise in GDI+ and string manipulation, and is intended to pay tribute to the game I played in my youth.
+![Arrow](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Docs/Images/icon-arrow.gif) All credit goes to John Hattan for the original idea of the Bulldozer game series. This project was an exercise in GDI+ and string manipulation, and is intended to pay tribute to the game I played in my youth.
 
-![Bulldozer](/BulldozerAHK/Docs/Images/bulldozer-push-rock.png)
+![Bulldozer](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Docs/Images/bulldozer-push-rock.png)
 
 <br>
 
-![Github](/BulldozerAHK/Docs/Images/icon-github.png) https://github.com/westoncampbell/BulldozerAHK
+![Github](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Docs/Images/icon-github.png) https://github.com/westoncampbell/BulldozerAHK
 
-![AutoHotkey](/BulldozerAHK/Docs/Images/icon-ahk.png) https://www.autohotkey.com/boards/viewtopic.php?f=6&t=50139
+![AutoHotkey](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Docs/Images/icon-ahk.png) https://www.autohotkey.com/boards/viewtopic.php?f=6&t=50139
 
 <br>
 
@@ -24,7 +24,7 @@ https://github.com/westoncampbell/BulldozerAHK/tree/master/Releases
 <br>
 
 ## Screenshots
-[![SS1](/BulldozerAHK/Docs/Images/S-Screen-1.png)](/BulldozerAHK/Docs/Images/L-Screen-1.png) [![SS2](/BulldozerAHK/Docs/Images/S-Screen-2.png)](/BulldozerAHK/Docs/Images/L-Screen-2.png) [![SS3](/BulldozerAHK/Docs/Images/S-Screen-3.png)](/BulldozerAHK/Docs/Images/L-Screen-3.png) [![SS4](/BulldozerAHK/Docs/Images/S-Screen-4.png)](/BulldozerAHK/Docs/Images/L-Screen-4.png) [![SS5](/BulldozerAHK/Docs/Images/S-Screen-5.png)](/BulldozerAHK/Docs/Images/L-Screen-5.png) [![SS6](/BulldozerAHK/Docs/Images/S-Screen-6.png)](/BulldozerAHK/Docs/Images/L-Screen-6.png) [![SS7](/BulldozerAHK/Docs/Images/S-Screen-7.png)](/BulldozerAHK/Docs/Images/L-Screen-7.png) [![SS8](/BulldozerAHK/Docs/Images/S-Screen-8.png)](/BulldozerAHK/Docs/Images/L-Screen-8.png)
+[![SS1](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Docs/Images/S-Screen-1.png)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Docs/Images/L-Screen-1.png) [![SS2](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Docs/Images/S-Screen-2.png)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Docs/Images/L-Screen-2.png) [![SS3](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Docs/Images/S-Screen-3.png)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Docs/Images/L-Screen-3.png) [![SS4](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Docs/Images/S-Screen-4.png)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Docs/Images/L-Screen-4.png) [![SS5](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Docs/Images/S-Screen-5.png)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Docs/Images/L-Screen-5.png) [![SS6](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Docs/Images/S-Screen-6.png)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Docs/Images/L-Screen-6.png) [![SS7](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Docs/Images/S-Screen-7.png)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Docs/Images/L-Screen-7.png) [![SS8](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Docs/Images/S-Screen-8.png)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Docs/Images/L-Screen-8.png)
 
 <br>
 
@@ -36,33 +36,33 @@ The object of Bulldozer is to push each rock on to a target.
 ## Movement
 Move the bulldozer using the arrow keys, or WASD keys, on your keyboard. The bulldozer can move horizontally and vertically.
 
-![Fig 1](/BulldozerAHK/Docs/Images/Fig1.png)
+![Fig 1](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Docs/Images/Fig1.png)
 
 The bulldozer will not move if one of the following three conditions are true:
 
 **(1) You are trying to push multiple rocks...**
 
-![Fig 2](/BulldozerAHK/Docs/Images/Fig2.png)
+![Fig 2](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Docs/Images/Fig2.png)
 
 > You can only push one rock at a time!
 
 **(2) You are pushing against a wall. . .**
 
-![Fig 3](/BulldozerAHK/Docs/Images/Fig3.png)
+![Fig 3](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Docs/Images/Fig3.png)
 
 > The bulldozer can't move through walls.
 
 **(3) You are pushing a rock against a wall. . .**
 
-![Fig 4](/BulldozerAHK/Docs/Images/Fig4.png)
+![Fig 4](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Docs/Images/Fig4.png)
 
 > Be careful about pushing rocks against walls. The rock might become stuck, and you'll be forced to restart the level.
 
-![Fig 5](/BulldozerAHK/Docs/Images/Fig5.png)
+![Fig 5](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Docs/Images/Fig5.png)
 
 > However, it may still be possible to reach the target depending on its position.
 
-![Fig 6](/BulldozerAHK/Docs/Images/Fig6.png)
+![Fig 6](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Docs/Images/Fig6.png)
 
 <br>
 

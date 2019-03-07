@@ -9,16 +9,16 @@ The object of Bulldozer is to push all of the rocks to the targets. Move the bul
 
 <br>
 
-![Github](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Docs/Images/icon-github.png) https://github.com/westoncampbell/BulldozerAHK
+![Github](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Docs/Images/icon-github.png) [https://github.com/westoncampbell/BulldozerAHK](https://github.com/westoncampbell/BulldozerAHK)
 
-![AutoHotkey](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Docs/Images/icon-ahk.png) https://www.autohotkey.com/boards/viewtopic.php?f=6&t=50139
+![AutoHotkey](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Docs/Images/icon-ahk.png) [https://www.autohotkey.com/boards/viewtopic.php?f=6&t=50139](https://www.autohotkey.com/boards/viewtopic.php?f=6&t=50139)
 
 <br>
 
 ## Download
 All releases can be found on the BulldozerAHK Github repository:
 
-https://github.com/westoncampbell/BulldozerAHK/tree/master/Releases
+[https://github.com/westoncampbell/BulldozerAHK/tree/master/Releases](https://github.com/westoncampbell/BulldozerAHK/tree/master/Releases)
 
 <br>
 

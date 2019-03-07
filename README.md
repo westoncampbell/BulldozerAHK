@@ -29,35 +29,6 @@ https://github.com/westoncampbell/BulldozerAHK/tree/master/Releases
 
 <br>
 
-## Index
-* [Game Objective](#game-objective)
-* [Movement](#movement)
-* [Completing a Level](#completing-a-level)
-* [Hints](#hints)
-* [Menubar](#menubar)
-	* [Game](#game)
-		* [Restart Level](#restart-level)
-		* [Level Select](#level-select)
-		* [Undo Last Move](#undo-last-move)
-		* [Exit](#exit)
-	* [View](#view)
-		* [Layered Tiles](#layered-tiles)
-	* [Options](#options)
-		* [Background Color](#background-color)
-		* [Theme](#theme)
-		* [Sound Effects](#sound-effects)
-		* [Level Number](#level-number)
-		* [Unlimited Undo](#unlimited-undo)
-		* [Mouse Movement](#mouse-movement)
-		* [Titlebar Progress](#titlebar-progress)
-		* [Taskbar Progress](#taskbar-progress)
-	* [Help](#help)
-		* [Website...](#website)
-		* [About Bulldozer](#about-bulldozer)
-* [Hotkeys](#hotkeys)
-
-<br>
-
 ## Game Objective
 The object of Bulldozer is to push each rock on to a target.
 

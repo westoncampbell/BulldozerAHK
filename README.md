@@ -74,24 +74,23 @@ The bulldozer will not move if one of the following three conditions are true:
 
 ![Fig 2](https://i.imgur.com/Mr4a0q7.png)
 
-	You can only push one rock at a time!
+> You can only push one rock at a time!
 
 **(2) You are pushing against a wall. . .**
 
 ![Fig 3](https://i.imgur.com/Xecqy3B.png)
 
-	The bulldozer can't move through walls.
+> The bulldozer can't move through walls.
 
 **(3) You are pushing a rock against a wall. . .**
 
 ![Fig 4](https://i.imgur.com/KV91Ukv.png)
 
-	Be careful about pushing rocks against walls. The rock might become stuck, and you'll be forced to restart
-	the level.
+> Be careful about pushing rocks against walls. The rock might become stuck, and you'll be forced to restart the level.
 
 ![Fig 5](https://i.imgur.com/yBjsOwB.png)
 
-	However, it may still be possible to reach the target depending on its position.
+> However, it may still be possible to reach the target depending on its position.
 
 ![Fig 6](https://i.imgur.com/pfcdTys.png)
 
@@ -113,16 +112,16 @@ A rock is not locked into position once it is placed on a target.
 ### Game
 
 #### Restart Level
-	Reset the level, moving all of the objects to their original starting positions.
+> Reset the level, moving all of the objects to their original starting positions.
 
 #### Level Select
-	Show the level selection screen, allowing navigation to any of the included 180 levels.
+> Show the level selection screen, allowing navigation to any of the included 180 levels.
 
 #### Undo Last Move
-	Reset all objects from your recent move to their previous positions.
+> Reset all objects from your recent move to their previous positions.
 
 #### Exit
-	Completely close the game.
+> Completely close the game.
 
 <br>
 

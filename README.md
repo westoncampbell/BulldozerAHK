@@ -133,39 +133,37 @@ A rock is not locked into position once it is placed on a target.
 
 ### Options
 #### Background Color
-	Set the color of the background behind the game objects by choosing from one of the 16 presets or using the
-	custom color picker.
+> Set the color of the background behind the game objects by choosing from one of the 16 presets or using the custom color picker.
 
 #### Theme
-	Change the appearance of the game objects by choosing the "Color" or "Monochrome" options, or using a
-	custom theme by selecting an external PNG image file.
+> Change the appearance of the game objects by choosing the "Color" or "Monochrome" options, or using a custom theme by selecting an external PNG image file.
 
 #### Sound Effects
-	Toggle sound effects.
+> Toggle sound effects.
 
 #### Level Number
-	Toggle the display of the current level number overlayed on the top-right of the game screen.
+> Toggle the display of the current level number overlayed on the top-right of the game screen.
 
 #### Unlimited Undo
-	Toggle the allowance of mutliple consecutive undo actions.
+> Toggle the allowance of mutliple consecutive undo actions.
 
 #### Mouse Movement
-	Toggle the movement of the bulldozer using mouse controls.
+> Toggle the movement of the bulldozer using mouse controls.
 
 #### Titlebar Progress
-	Toggle the display [Text] of the current level progress in the titlebar of the game window.
+> Toggle the display [Text] of the current level progress in the titlebar of the game window.
 
 #### Taskbar Progress
-	Toggle the display [ProgressBar] of the current level progress in the game taskbar item.
+> Toggle the display [ProgressBar] of the current level progress in the game taskbar item.
 
 <br>
 
 ### Help
 #### Website...
-	Open the game website in the default web browser.
+> Open the game website in the default web browser.
 
 #### About Bulldozer
-	Open the 'About' screen, displaying information related to the current version of the game.
+> Open the 'About' screen, displaying information related to the current version of the game.
 
 <br>
 

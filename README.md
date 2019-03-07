@@ -5,15 +5,15 @@ Bulldozer 1 first appeared in 1994 on the CD-ROM game compilation "[24 Games for
 
 The object of Bulldozer is to push all of the rocks to the targets. Move the bulldozer using the keyboard's WASD or arrow keys. The bulldozer can only push one rock at a time, and it cannot pull rocks. You will advance to the next level when each rock has been placed on a target.
 
-![Arrow](https://i.imgur.com/ibEcmmW.gif) All credit goes to John Hattan for the original idea of the Bulldozer game series. This project was an exercise in GDI+ and string manipulation, and is intended to pay tribute to the game I played in my youth.
+![Arrow](/Docs/Images/icon-arrow.gif) All credit goes to John Hattan for the original idea of the Bulldozer game series. This project was an exercise in GDI+ and string manipulation, and is intended to pay tribute to the game I played in my youth.
 
-![Bulldozer](https://i.imgur.com/ZIEXAqj.png)
+![Bulldozer](/Docs/Images/bulldozer-push-rock.png)
 
 <br>
 
-![Github](https://i.imgur.com/GBrEWOd.png) https://github.com/westoncampbell/BulldozerAHK
+![Github](/Docs/Images/icon-github.png) https://github.com/westoncampbell/BulldozerAHK
 
-![AutoHotkey](https://i.imgur.com/IwSfmMJ.png) https://www.autohotkey.com/boards/viewtopic.php?f=6&t=50139
+![AutoHotkey](/Docs/Images/icon-ahk.png) https://www.autohotkey.com/boards/viewtopic.php?f=6&t=50139
 
 <br>
 
@@ -66,33 +66,33 @@ The object of Bulldozer is to push each rock on to a target.
 ## Movement
 Move the bulldozer using the arrow keys, or WASD keys, on your keyboard. The bulldozer can move horizontally and vertically.
 
-![Fig 1](https://i.imgur.com/aFz4lhZ.png)
+![Fig 1](/Docs/Images/Fig1.png)
 
 The bulldozer will not move if one of the following three conditions are true:
 
 **(1) You are trying to push multiple rocks...**
 
-![Fig 2](https://i.imgur.com/Mr4a0q7.png)
+![Fig 2](/Docs/Images/Fig2.png)
 
 > You can only push one rock at a time!
 
 **(2) You are pushing against a wall. . .**
 
-![Fig 3](https://i.imgur.com/Xecqy3B.png)
+![Fig 3](/Docs/Images/Fig3.png)
 
 > The bulldozer can't move through walls.
 
 **(3) You are pushing a rock against a wall. . .**
 
-![Fig 4](https://i.imgur.com/KV91Ukv.png)
+![Fig 4](/Docs/Images/Fig4.png)
 
 > Be careful about pushing rocks against walls. The rock might become stuck, and you'll be forced to restart the level.
 
-![Fig 5](https://i.imgur.com/yBjsOwB.png)
+![Fig 5](/Docs/Images/Fig5.png)
 
 > However, it may still be possible to reach the target depending on its position.
 
-![Fig 6](https://i.imgur.com/pfcdTys.png)
+![Fig 6](/Docs/Images/Fig6.png)
 
 <br>
 

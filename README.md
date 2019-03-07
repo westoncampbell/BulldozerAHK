@@ -173,27 +173,26 @@ A rock is not locked into position once it is placed on a target.
 ## Hotkeys
 Several actions in the game can be triggered using a hotkey. See below for a complete list of active hotkeys:
 
-
-|          **Description**          |              **Area**               |     **Hotkey**     |
-|-----------------------------------|-------------------------------------|--------------------|
-| **Restart Level**                 | Game                                | <kbd>F2</kbd>               |
-| **Show 'Level Select' Screen**    | Game, About                         | <kbd>F3</kbd>              |
-| **Save Screenshot**               | Game                                | <kbd>F12</kbd>              |
-| **Load Previous Level**           | Game                                | <kbd>PgUp</kbd>             |
-| **Load Next Level**               | Game                                | <kbd>PgDn</kbd>             |
-| **Hide Screen**                   | Game                                | <kbd>Esc</kbd>              |
-| **Move Up**                       | Game                                | <kbd>↑</kbd>, <kbd>W</kbd>, `LMouse` |
-| **Move Left**                     | Game                                | <kbd>←</kbd>, <kbd>A</kbd>, `LMouse` |
-| **Move Down**                     | Game                                | <kbd>↓</kbd>, <kbd>S</kbd>, `LMouse` |
-| **Move Right**                    | Game                                | <kbd>→</kbd>, <kbd>D</kbd>, `LMouse` |
-| **Exit Game**                     | Game, Level Select, About Bulldozer | <kbd>Alt</kbd>+<kbd>F4</kbd>         |
-| **Minimize Game**                 | Game, Level Select, About Bulldozer | <kbd>Space</kbd>            |
-| **Default Action**                | About Bulldozer, Level Select       | <kbd>Enter</kbd>            |
-| **Show 'About Bulldozer' Screen** | Game, Level Select                  | <kbd>F1</kbd>               |
-| **Select Previous Level**         | Level Select                        | <kbd>↑</kbd>, <kbd>←</kbd>           |
-| **Select Next Level**             | Level Select                        | <kbd>↓</kbd>, <kbd>→</kbd>           |
-| **Select Previous Level (x5)**    | Level Select                        | <kbd>PgUp</kbd>            |
-| **Select Next Level (x5)**        | Level Select                        | <kbd>PgDn</kbd>            |
-| **Select First Level**            | Level Select                        | <kbd>Home</kbd>            |
-| **Select Last Level**             | Level Select                        | <kbd>End</kbd>            |
-| **Load Selected Level**           | Level Select                        | <kbd>Enter</kbd>            |
+|        **Description**         |              **Area**               |                     **Hotkey**                      |
+|--------------------------------|-------------------------------------|-----------------------------------------------------|
+| **Restart Level**              | Game                                | <kbd>F2</kbd>                                       |
+| **Show 'Level Select'**        | Game, About                         | <kbd>F3</kbd>                                       |
+| **Save Screenshot**            | Game                                | <kbd>F12</kbd>                                      |
+| **Load Previous Level**        | Game                                | <kbd>PgUp</kbd>                                     |
+| **Load Next Level**            | Game                                | <kbd>PgDn</kbd>                                     |
+| **Hide Screen**                | Game                                | <kbd>Esc</kbd>                                      |
+| **Move Up**                    | Game                                | <kbd>&#8593;</kbd>, <kbd>W</kbd>, <kbd>LMouse</kbd> |
+| **Move Left**                  | Game                                | <kbd>&#8592;</kbd>, <kbd>A</kbd>, <kbd>LMouse</kbd> |
+| **Move Down**                  | Game                                | <kbd>&#8595;</kbd>, <kbd>S</kbd>, <kbd>LMouse</kbd> |
+| **Move Right**                 | Game                                | <kbd>&#8594;</kbd>, <kbd>D</kbd>, <kbd>LMouse</kbd> |
+| **Exit Game**                  | Game, Level Select, About Bulldozer | <kbd>Alt</kbd>+<kbd>F4</kbd>                        |
+| **Minimize Game**              | Game, Level Select, About Bulldozer | <kbd>Space</kbd>                                    |
+| **Default Action**             | About Bulldozer, Level Select       | <kbd>Enter</kbd>                                    |
+| **Show 'About Bulldozer'**     | Game, Level Select                  | <kbd>F1</kbd>                                       |
+| **Select Previous Level**      | Level Select                        | <kbd>&#8593;</kbd>, <kbd>&#8592;</kbd>              |
+| **Select Next Level**          | Level Select                        | <kbd>&#8595;</kbd>, <kbd>&#8594;</kbd>              |
+| **Select Previous Level (x5)** | Level Select                        | <kbd>PgUp</kbd>                                     |
+| **Select Next Level (x5)**     | Level Select                        | <kbd>PgDn</kbd>                                     |
+| **Select First Level**         | Level Select                        | <kbd>Home</kbd>                                     |
+| **Select Last Level**          | Level Select                        | <kbd>End</kbd>                                      |
+| **Load Selected Level**        | Level Select                        | <kbd>Enter</kbd>                                    |

@@ -34,6 +34,15 @@
             </ul>
           </div>
         {% endif %}
+		  
+        {% if site.show_download %}
+          <div class="downloads">
+            <span>Downloads:</span>
+            <ul>
+              <li><a href="{{ site.github.zip_url }}" class="button">Download</a></li>
+            </ul>
+          </div>
+        {% endif %}
       </div><!-- end banner -->
 
     <div class="wrapper">

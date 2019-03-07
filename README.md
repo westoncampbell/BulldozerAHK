@@ -23,11 +23,6 @@ https://github.com/westoncampbell/BulldozerAHK/tree/master/Releases
 <br>
 
 ## Screenshots
-
-<a target="_blank" href="https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Docs/Images/L-Screen-1.png"><img alt="Screenshot 1" src="https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Docs/Images/S-Screen-1.png"></a>
-
-
-
 [![SS1](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Docs/Images/S-Screen-1.png)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Docs/Images/L-Screen-1.png) [![SS2](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Docs/Images/S-Screen-2.png)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Docs/Images/L-Screen-2.png) [![SS3](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Docs/Images/S-Screen-3.png)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Docs/Images/L-Screen-3.png) [![SS4](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Docs/Images/S-Screen-4.png)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Docs/Images/L-Screen-4.png) [![SS5](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Docs/Images/S-Screen-5.png)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Docs/Images/L-Screen-5.png) [![SS6](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Docs/Images/S-Screen-6.png)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Docs/Images/L-Screen-6.png) [![SS7](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Docs/Images/S-Screen-7.png)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Docs/Images/L-Screen-7.png) [![SS8](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Docs/Images/S-Screen-8.png)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Docs/Images/L-Screen-8.png)
 
 <br>

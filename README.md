@@ -127,7 +127,7 @@ A rock is not locked into position once it is placed on a target.
 
 ### View
 #### Layered Tiles
-	Toggle drawing of objects on top of the background elements for custom themes using transparency.
+> Toggle drawing of objects on top of the background elements for custom themes using transparency.
 
 <br>
 

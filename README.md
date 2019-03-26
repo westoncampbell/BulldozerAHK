@@ -212,7 +212,7 @@ Bulldozer supports loading custom themes from an external 480x32 PNG image file.
 
 Each 32x32 region represents one of the 15 tiles in the game.
 
-![Tilemap](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/Bulldozer%20Color%20(Original).png)
+![Tilemap](BulldozerDocs/images/custom-theme.png)
 
 Use an image editor to create a new theme, or choose from any of the available themes from the Bulldozer website.
 

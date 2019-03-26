@@ -33,7 +33,7 @@
 
 <br>
 
-[![arrow-up](BulldozerDocs/images/icons8-up-24.png)](#bulldozer)
+[![arrow-up](BulldozerDocs/images/icon-up.png)](#bulldozer)
 
 ## Introduction
 Bulldozer, developed for  [AutoHotkey](http://www.autohotkey.com/) by [Weston Campbell](mailto:westoncampbell@gmail.com?Subject=BulldozerAHK),  is a recreation of the original Bulldozer game series created by John 'FlyMan' Hattan ([The Code Zone](https://www.thecodezone.com/)).
@@ -59,7 +59,7 @@ All credit goes to John Hattan for the original idea of the Bulldozer game serie
 
 <br>
 
-[![arrow-up](BulldozerDocs/images/icons8-up-24.png)](#bulldozer)
+[![arrow-up](BulldozerDocs/images/icon-up.png)](#bulldozer)
 
 ## Download
 
@@ -69,21 +69,21 @@ All releases can be found on the BulldozerAHK Github repository:
 
 <br>
 
-[![arrow-up](BulldozerDocs/images/icons8-up-24.png)](#bulldozer)
+[![arrow-up](BulldozerDocs/images/icon-up.png)](#bulldozer)
 
 ## Screenshots
 <a href="https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Screenshots/Bulldozer%20001%202019-03-01.png" title="Bulldozer 001 2019-03-01"><img alt="Bulldozer 001 2019-03-01" src="https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Screenshots/Bulldozer%20001%202019-03-01.png" width="48%"></a> <a href="https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Screenshots/Bulldozer%20002%202019-03-01.pngg" title="Bulldozer 002 2019-03-01"><img alt="Bulldozer 002 2019-03-01" src="https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Screenshots/Bulldozer%20002%202019-03-01.png" width="48%"></a> <a href="https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Screenshots/Bulldozer%20003%202019-03-01.pngg" title="Bulldozer 003 2019-03-01"><img alt="Bulldozer 003 2019-03-01" src="https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Screenshots/Bulldozer%20003%202019-03-01.png" width="48%"></a>  <a href="https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Screenshots/Bulldozer%20004%202019-03-01.pngg" title="Bulldozer 004 2019-03-01"><img alt="Bulldozer 004 2019-03-01" src="https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Screenshots/Bulldozer%20004%202019-03-01.png" width="48%"></a>  <a href="https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Screenshots/Bulldozer%20005%202019-03-01.pngg" title="Bulldozer 005 2019-03-01"><img alt="Bulldozer 005 2019-03-01" src="https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Screenshots/Bulldozer%20005%202019-03-01.png" width="48%"></a> <a href="https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Screenshots/Bulldozer%20006%202019-03-01.pngg" title="Bulldozer 006 2019-03-01"><img alt="Bulldozer 006 2019-03-01" src="https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Screenshots/Bulldozer%20006%202019-03-01.png" width="48%"></a> <a href="https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Screenshots/Bulldozer%20007%202019-03-01.pngg" title="Bulldozer 007 2019-03-01"><img alt="Bulldozer 007 2019-03-01" src="https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Screenshots/Bulldozer%20007%202019-03-01.png" width="48%"></a> <a href="https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Screenshots/Bulldozer%20008%202019-03-01.pngg" title="Bulldozer 008 2019-03-01"><img alt="Bulldozer 008 2019-03-01" src="https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Screenshots/Bulldozer%20008%202019-03-01.png" width="48%"></a>
 
 <br>
 
-[![arrow-up](BulldozerDocs/images/icons8-up-24.png)](#bulldozer)
+[![arrow-up](BulldozerDocs/images/icon-up.png)](#bulldozer)
 
 ## Game Objective
 The object of Bulldozer is to push each rock on to a target.
 
 <br>
 
-[![arrow-up](BulldozerDocs/images/icons8-up-24.png)](#bulldozer)
+[![arrow-up](BulldozerDocs/images/icon-up.png)](#bulldozer)
 
 ## Movement
 Move the bulldozer using the arrow keys, or WASD keys, on your keyboard. The bulldozer can move horizontally and vertically.
@@ -122,14 +122,14 @@ The bulldozer will not move if one of the following three conditions are true:
 
 <br>
 
-[![arrow-up](BulldozerDocs/images/icons8-up-24.png)](#bulldozer)
+[![arrow-up](BulldozerDocs/images/icon-up.png)](#bulldozer)
 
 ## Completing a Level
 Progress to the next level by moving all of the rocks on to the targets. Each level will have the same number of rocks as targets.
 
 <br>
 
-[![arrow-up](BulldozerDocs/images/icons8-up-24.png)](#bulldozer)
+[![arrow-up](BulldozerDocs/images/icon-up.png)](#bulldozer)
 
 ## Hints
 Carefully plan your moves. It's easy to get stuck which may force you to restart the level.
@@ -138,7 +138,7 @@ A rock is not locked into position once it is placed on a target.
 
 <br>
 
-[![arrow-up](BulldozerDocs/images/icons8-up-24.png)](#bulldozer)
+[![arrow-up](BulldozerDocs/images/icon-up.png)](#bulldozer)
 
 ## Menubar
 ### Game
@@ -204,7 +204,7 @@ A rock is not locked into position once it is placed on a target.
 
 <br>
 
-[![arrow-up](BulldozerDocs/images/icons8-up-24.png)](#bulldozer)
+[![arrow-up](BulldozerDocs/images/icon-up.png)](#bulldozer)
 
 ## Custom Themes
 
@@ -218,7 +218,7 @@ Use an image editor to create a new theme, or choose from any of the available t
 
 <br>
 
-[![arrow-up](BulldozerDocs/images/icons8-up-24.png)](#bulldozer)
+[![arrow-up](BulldozerDocs/images/icon-up.png)](#bulldozer)
 
 ## Hotkeys
 Several actions in the game can be triggered using a hotkey. See below for a complete list of active hotkeys:

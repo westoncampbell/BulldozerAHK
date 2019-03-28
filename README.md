@@ -223,7 +223,9 @@ Use an image editor to create a new theme, or choose from any of the available t
 **8-bit Fantasy** ([Weston Campbell](https://www.autohotkey.com/boards/memberlist.php?mode=viewprofile&u=56166)) [[Resource](https://opengameart.org/content/32x32-fantasy-tileset)]
 
 [![8-bit Fantasy (Weston Campbell)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/8-bit%20Fantasy%20(TheDewd).png)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/8-bit%20Fantasy%20(TheDewd).png)
+
 <br><br>
+
 **Ahkban** ([SpeedMaster](https://www.autohotkey.com/boards/memberlist.php?mode=viewprofile&u=73929))
 
 [![Ahkban (SpeedMaster)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/Ahkban%20(SpeedMaster).png)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/Ahkban%20(SpeedMaster).png)
@@ -266,6 +268,7 @@ Use an image editor to create a new theme, or choose from any of the available t
 [![Bulldozer Monochrome Black (Inverted) (Weston Campbell)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/Monochrome%20Black%20Inverted%20(TheDewd).png
 )](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/Monochrome%20Black%20Inverted%20(TheDewd).png
 )
+
 **Difficult to view on white webpage background color*
 
 **Bulldozer Monochrome White** ([Weston Campbell](https://www.autohotkey.com/boards/memberlist.php?mode=viewprofile&u=56166))
@@ -273,6 +276,7 @@ Use an image editor to create a new theme, or choose from any of the available t
 [![Bulldozer Monochrome White (Weston Campbell)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/Monochrome%20White%20(TheDewd).png
 )](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/Monochrome%20White%20(TheDewd).png
 )
+
 **Difficult to view on white webpage background color*
 
 **Neko** ([Weston Campbell](https://www.autohotkey.com/boards/memberlist.php?mode=viewprofile&u=56166)) [[Resource](https://webneko.net/)]

@@ -236,34 +236,50 @@ Use an image editor to create a new theme, or choose from any of the available t
 
 [![Bulldozer Color (Bulldozer 1 - Original)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/Bulldozer%20Color%20(Original).png)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/Bulldozer%20Color%20(Original).png)
 
+<br>
+
 **Bulldozer Monochrome** (Bulldozer 1 - Original)
 
 [![Bulldozer Monochrome (Bulldozer 1 - Original)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/Bulldozer%20Monochrome%20(Original).png)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/Bulldozer%20Monochrome%20(Original).png)
+
+<br>
 
 **Bulldozer Monochrome** ([Weston Campbell](https://www.autohotkey.com/boards/memberlist.php?mode=viewprofile&u=56166))
 
 [![Bulldozer Monochrome (Weston Campbell)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/Bulldozer%20Monochrome%20(TheDewd).png)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/Bulldozer%20Monochrome%20(TheDewd).png)
 
+<br>
+
 **Chip's Challenge** ([Weston Campbell](https://www.autohotkey.com/boards/memberlist.php?mode=viewprofile&u=56166)) [[Resource](http://chipschallenge.wikia.com/wiki/Tile)]
 
 [![Chip's Challenge (Weston Campbell)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/Chip's%20Challenge%20(TheDewd).png)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/Chip's%20Challenge%20(TheDewd).png)
+
+<br>
 
 **Kid Icarus** ([Weston Campbell](https://www.autohotkey.com/boards/memberlist.php?mode=viewprofile&u=56166)) [[Resource](https://www.vg-resource.com/thread-17625.html)]
 
 [![Kid Icarus (Weston Campbell)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/Kid%20Icarus%20(TheDewd).png)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/Kid%20Icarus%20(TheDewd).png)
 
+<br>
+
 **Mario Bros.** ([Weston Campbell](https://www.autohotkey.com/boards/memberlist.php?mode=viewprofile&u=56166)) [[Resource](https://www.spriters-resource.com/nes/supermariobros/)]
 
 [![Mario Bros. (Weston Campbell)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/Mario%20Bros%20(TheDewd).png)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/Mario%20Bros%20(TheDewd).png)
+
+<br>
 
 **Mario Kart** ([Weston Campbell](https://www.autohotkey.com/boards/memberlist.php?mode=viewprofile&u=56166)) [[Resource](https://www.spriters-resource.com/snes/smariokart/)]
 
 [![Mario Kart (Weston Campbell)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/Mario%20Kart%20(The%20Dewd).png)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/Mario%20Kart%20(The%20Dewd).png)
 
+<br>
+
 **Bulldozer Monochrome Black** ([Weston Campbell](https://www.autohotkey.com/boards/memberlist.php?mode=viewprofile&u=56166))
 [![Bulldozer Monochrome Black (Weston Campbell)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/Monochrome%20Black%20(TheDewd).png
 )](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/Monochrome%20Black%20(TheDewd).png
 )
+
+<br>
 
 **Bulldozer Monochrome Black (Inverted)** ([Weston Campbell](https://www.autohotkey.com/boards/memberlist.php?mode=viewprofile&u=56166))
 
@@ -273,6 +289,8 @@ Use an image editor to create a new theme, or choose from any of the available t
 
 **Difficult to view on white webpage background color*
 
+<br>
+
 **Bulldozer Monochrome White** ([Weston Campbell](https://www.autohotkey.com/boards/memberlist.php?mode=viewprofile&u=56166))
 
 [![Bulldozer Monochrome White (Weston Campbell)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/Monochrome%20White%20(TheDewd).png
@@ -281,11 +299,15 @@ Use an image editor to create a new theme, or choose from any of the available t
 
 **Difficult to view on white webpage background color*
 
+<br>
+
 **Neko** ([Weston Campbell](https://www.autohotkey.com/boards/memberlist.php?mode=viewprofile&u=56166)) [[Resource](https://webneko.net/)]
 
 [![Neko (Weston Campbell)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/Neko%20(TheDewd).png
 )](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/Neko%20(TheDewd).png
 )
+
+<br>
 
 **Neon Rainbow** ([Weston Campbell](https://www.autohotkey.com/boards/memberlist.php?mode=viewprofile&u=56166))
 
@@ -293,11 +315,15 @@ Use an image editor to create a new theme, or choose from any of the available t
 )](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/Neon%20Rainbow%20(TheDewd).png
 )
 
+<br>
+
 **Racecar 1** ([Weston Campbell](https://www.autohotkey.com/boards/memberlist.php?mode=viewprofile&u=56166)) [[Resource](https://raw.githubusercontent.com/photonstorm/phaser-examples/master/examples/assets/tilemaps/tiles/gridtiles.png?_sm_au_=iVVZcSkvr7D15v7H)]
 
 [![Racecar 1 (Weston Campbell)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/Racecar%201%20(TheDewd).png
 )](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/Racecar%201%20(TheDewd).png
 )
+
+<br>
 
 **Racecar 2** ([Weston Campbell](https://www.autohotkey.com/boards/memberlist.php?mode=viewprofile&u=56166)) [[Resource](https://raw.githubusercontent.com/photonstorm/phaser-examples/master/examples/assets/tilemaps/tiles/gridtiles.png?_sm_au_=iVVZcSkvr7D15v7H)]
 
@@ -305,17 +331,21 @@ Use an image editor to create a new theme, or choose from any of the available t
 )](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/Racecar%202%20(TheDewd).png
 )
 
+<br>
+
 **Tanks** ([Weston Campbell](https://www.autohotkey.com/boards/memberlist.php?mode=viewprofile&u=56166)) [[Resource](https://www.widgetworx.com/spritelib/)]
 
 [![Tanks (Weston Campbell)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/Tanks%20(TheDewd).png
 )](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/Tanks%20(TheDewd).png
 )
 
+<br>
+
 **Zelda** ([Weston Campbell](https://www.autohotkey.com/boards/memberlist.php?mode=viewprofile&u=56166)) [[Resource](https://www.spriters-resource.com/nes/legendofzelda/)]
 
-[![Zelda (Weston Campbell)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/Zelda%20(TheDewd).png
+<kbd>[![Zelda (Weston Campbell)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/Zelda%20(TheDewd).png
 )](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/Zelda%20(TheDewd).png
-)
+)</kbd>
 
 <br>
 

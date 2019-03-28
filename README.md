@@ -221,8 +221,9 @@ Use an image editor to create a new theme, or choose from any of the available t
 <br>
 
 **8-bit Fantasy** ([Weston Campbell](https://www.autohotkey.com/boards/memberlist.php?mode=viewprofile&u=56166)) [[Resource](https://opengameart.org/content/32x32-fantasy-tileset)]
-[![8-bit Fantasy (Weston Campbell)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/8-bit%20Fantasy%20(TheDewd).png)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/8-bit%20Fantasy%20(TheDewd).png)
 
+[![8-bit Fantasy (Weston Campbell)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/8-bit%20Fantasy%20(TheDewd).png)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/8-bit%20Fantasy%20(TheDewd).png)
+<br>
 **Ahkban** ([SpeedMaster](https://www.autohotkey.com/boards/memberlist.php?mode=viewprofile&u=73929))
 [![Ahkban (SpeedMaster)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/Ahkban%20(SpeedMaster).png)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/Ahkban%20(SpeedMaster).png)
 

@@ -224,11 +224,13 @@ Use an image editor to create a new theme, or choose from any of the available t
 
 [![8-bit Fantasy (Weston Campbell)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/8-bit%20Fantasy%20(TheDewd).png)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/8-bit%20Fantasy%20(TheDewd).png)
 
-<br><br>
+<br>
 
 **Ahkban** ([SpeedMaster](https://www.autohotkey.com/boards/memberlist.php?mode=viewprofile&u=73929))
 
 [![Ahkban (SpeedMaster)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/Ahkban%20(SpeedMaster).png)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/Ahkban%20(SpeedMaster).png)
+
+<br>
 
 **Bulldozer Color** (Bulldozer 1 - Original)
 
@@ -265,9 +267,9 @@ Use an image editor to create a new theme, or choose from any of the available t
 
 **Bulldozer Monochrome Black (Inverted)** ([Weston Campbell](https://www.autohotkey.com/boards/memberlist.php?mode=viewprofile&u=56166))
 
-[![Bulldozer Monochrome Black (Inverted) (Weston Campbell)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/Monochrome%20Black%20Inverted%20(TheDewd).png
+<kbd>[![Bulldozer Monochrome Black (Inverted) (Weston Campbell)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/Monochrome%20Black%20Inverted%20(TheDewd).png
 )](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/Monochrome%20Black%20Inverted%20(TheDewd).png
-)
+)</kbd>
 
 **Difficult to view on white webpage background color*
 

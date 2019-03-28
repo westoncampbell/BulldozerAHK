@@ -1,4 +1,4 @@
-﻿; Script Information ===========================================================
+; Script Information ===========================================================
 ; Name:         Bulldozer
 ; Description:  Bulldozer is an Autohotkey recreation the original Bulldozer 1,
 ;               Bulldozer 2, and Bulldozer 3 games originally developed by John
@@ -1005,7 +1005,7 @@ MenuHandler(ItemName, ItemPos, MenuName) {
 			Try {
 				Run, BulldozerDocs\index.html
 			} Catch {
-				Run, https://westoncampbell.github.io/BulldozerAHK/
+				Run, https://github.com/westoncampbell/BulldozerAHK/blob/master/README.md
 			}
 		}
 	} Else If (MenuName = "Tray") {

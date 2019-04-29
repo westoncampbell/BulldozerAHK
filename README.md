@@ -62,7 +62,7 @@ All credit goes to John Hattan for the original idea of the Bulldozer game serie
 [![arrow-up](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/BulldozerDocs/images/icon-up.png)](#bulldozer)
 
 ## Download
-**Latest Release**: [Revision 16 (2019-03-28)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Releases/Bulldozer%20-%20Revision%2016%20(2019-03-28).ahk)
+**Latest Release**: [Revision 17 (2019-04-29)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Releases/Bulldozer%20-%20Revision%2017%20(2019-04-29).ahk)
 <br>
 
 All releases can be found on the [BulldozerAHK Github repository](https://github.com/westoncampbell/BulldozerAHK/tree/master/Releases).

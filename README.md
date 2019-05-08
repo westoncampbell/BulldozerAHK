@@ -15,6 +15,8 @@
 		- [Level Select](#level-select)
 		- [Undo Last Move](#undo-last-move)
 		- [Exit](#exit)
+	- [View](#view)
+		- [Layered Tiles](#layered-tiles)
 	- [Options](#options)
 		- [Background Color](#background-color)
 		- [Theme](#theme)
@@ -351,7 +353,7 @@ Use an image editor to create a new theme, or choose from any of the available t
 
 <br>
 
-**Angry Birds** ([Drachenbauer](https://www.autohotkey.com/boards/memberlist.php?mode=viewprofile&u=112092)) [![Use Layered Tiles](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/BulldozerDocs/images/LayeredTiles16.png)](#custom-themes)
+**Angry Birds** ([Drachenbauer](https://www.autohotkey.com/boards/memberlist.php?mode=viewprofile&u=112092)) [![Use Layered Tiles](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/BulldozerDocs/images/LayeredTiles16.png)](#layered-tiles)
 
 <kbd>[![Angry Birds (Drachenbauer)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/Angry%20Birds%20(Drachenbauer).png
 )](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/Angry%20Birds%20(Drachenbauer).png

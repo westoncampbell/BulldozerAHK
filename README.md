@@ -350,6 +350,14 @@ Use an image editor to create a new theme, or choose from any of the available t
 
 <br>
 
+**Angry Birds** ([Drachenbauer](https://www.autohotkey.com/boards/memberlist.php?mode=viewprofile&u=112092))
+
+<kbd>[![Angry Birds (Drachenbauer)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/Angry%20Birds%20(Drachenbauer).png
+)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/Angry%20Birds%20(Drachenbauer).png
+)</kbd>
+
+<br>
+
 [![arrow-up](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/BulldozerDocs/images/icon-up.png)](#bulldozer)
 
 ## Hotkeys

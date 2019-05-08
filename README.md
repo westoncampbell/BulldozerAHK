@@ -48,7 +48,7 @@ All credit goes to John Hattan for the original idea of the Bulldozer game serie
 
 <br>
 
-[![Bulldozer](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/BulldozerDocs/images/bulldozer-push-rock.png)(#)]
+[![Bulldozer](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/BulldozerDocs/images/bulldozer-push-rock.png)](#)
 
 <br>
 

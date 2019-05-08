@@ -353,10 +353,10 @@ Use an image editor to create a new theme, or choose from any of the available t
 
 <br>
 
-**Angry Birds** ([Drachenbauer](https://www.autohotkey.com/boards/memberlist.php?mode=viewprofile&u=112092)) [![Use Layered Tiles](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/BulldozerDocs/images/LayeredTiles16.png)](#layered-tiles)
+**Angry Birds - Stella** ([Drachenbauer](https://www.autohotkey.com/boards/memberlist.php?mode=viewprofile&u=112092)) [![Use Layered Tiles](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/BulldozerDocs/images/LayeredTiles16.png)](#layered-tiles) Uses Layered Tiles
 
-<kbd>[![Angry Birds (Drachenbauer)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/Angry%20Birds%20(Drachenbauer).png
-)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/Angry%20Birds%20(Drachenbauer).png
+<kbd>[![Angry Birds - Stella (Drachenbauer)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/Angry%20Birds%20-%20Stella%20(Drachenbauer).png
+)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/Angry%20Birds%20-%20Stella%20(Drachenbauer).png
 )</kbd>
 
 <br>
@@ -518,6 +518,22 @@ Use an image editor to create a new theme, or choose from any of the available t
 
 <kbd>[![Bulldozer Monochrome [Modified-Transparent 4] (Drachenbauer)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/Bulldozer%20Monochrome%20%5BModified-Transparent%204%5D%20(Drachenbauer).png
 )](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/Bulldozer%20Monochrome%20%5BModified-Transparent%204%5D%20(Drachenbauer).png
+)</kbd>
+
+<br>
+
+**Neko** ([Drachenbauer](https://www.autohotkey.com/boards/memberlist.php?mode=viewprofile&u=112092))
+
+<kbd>[![Neko (Drachenbauer)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/Neko%20(Drachenbauer).png
+)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/Neko%20(Drachenbauer).png
+)</kbd>
+
+<br>
+
+**Neko 2** ([Drachenbauer](https://www.autohotkey.com/boards/memberlist.php?mode=viewprofile&u=112092))
+
+<kbd>[![Neko 2 (Drachenbauer)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/Neko%202%20(Drachenbauer).png
+)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/Neko%202%20(Drachenbauer).png
 )</kbd>
 
 <br>

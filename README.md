@@ -390,6 +390,82 @@ Use an image editor to create a new theme, or choose from any of the available t
 
 <br>
 
+**Abstrakt** ([Drachenbauer](https://www.autohotkey.com/boards/memberlist.php?mode=viewprofile&u=112092))
+
+<kbd>[![Abstrakt (Drachenbauer)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/Abstrakt%20(Drachenbauer).png
+)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/Abstrakt%20(Drachenbauer).png
+)</kbd>
+
+<br>
+
+**Abstrakt Monochrome** ([Drachenbauer](https://www.autohotkey.com/boards/memberlist.php?mode=viewprofile&u=112092))
+
+<kbd>[![Abstrakt Monochrome (Drachenbauer)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/Abstrakt%20Monochrome%20(Drachenbauer).png
+)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/Abstrakt%20Monochrome%20(Drachenbauer).png
+)</kbd>
+
+<br>
+
+**Abstrakt Monochrome [Inverted]** ([Drachenbauer](https://www.autohotkey.com/boards/memberlist.php?mode=viewprofile&u=112092))
+
+<kbd>[![Abstrakt Monochrome [Inverted] (Drachenbauer)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/Abstrakt%20Monochrome%20%5BInverted%5D%20(Drachenbauer).png
+)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/Abstrakt%20Monochrome%20%5BInverted%5D%20(Drachenbauer).png
+)</kbd>
+
+<br>
+
+**Abstrakt Monochrome [Transparent 1]** ([Drachenbauer](https://www.autohotkey.com/boards/memberlist.php?mode=viewprofile&u=112092))
+
+<kbd>[![Abstrakt Monochrome [Transparent 1] (Drachenbauer)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/Abstrakt%20Monochrome%20%5BTransparent%201%5D%20(Drachenbauer).png
+)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/Abstrakt%20Monochrome%20%5BTransparent%201%5D%20(Drachenbauer).png
+)</kbd>
+
+<br>
+
+**Abstrakt Monochrome [Transparent 2]** ([Drachenbauer](https://www.autohotkey.com/boards/memberlist.php?mode=viewprofile&u=112092))
+
+<kbd>[![Abstrakt Monochrome [Transparent 2] (Drachenbauer)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/Abstrakt%20Monochrome%20%5BTransparent%202%5D%20(Drachenbauer).png
+)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/Abstrakt%20Monochrome%20%5BTransparent%202%5D%20(Drachenbauer).png
+)</kbd>
+
+**Difficult to view on white webpage background color*
+
+<br>
+
+**Abstrakt Monochrome [Transparent 3]** ([Drachenbauer](https://www.autohotkey.com/boards/memberlist.php?mode=viewprofile&u=112092))
+
+<kbd>[![Abstrakt Monochrome [Transparent 3] (Drachenbauer)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/Abstrakt%20Monochrome%20%5BTransparent%203%5D%20(Drachenbauer).png
+)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/Abstrakt%20Monochrome%20%5BTransparent%203%5D%20(Drachenbauer).png
+)</kbd>
+
+**Difficult to view on white webpage background color*
+
+<br>
+
+**Abstrakt Monochrome [Transparent 4]** ([Drachenbauer](https://www.autohotkey.com/boards/memberlist.php?mode=viewprofile&u=112092))
+
+<kbd>[![Abstrakt Monochrome [Transparent 4] (Drachenbauer)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/Abstrakt%20Monochrome%20%5BTransparent%204%5D%20(Drachenbauer).png
+)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/Abstrakt%20Monochrome%20%5BTransparent%204%5D%20(Drachenbauer).png
+)</kbd>
+
+<br>
+
+**Bulldozer Color [Yellow 1]** ([Drachenbauer](https://www.autohotkey.com/boards/memberlist.php?mode=viewprofile&u=112092))
+
+<kbd>[![Bulldozer Color [Yellow 1] (Drachenbauer)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/Bulldozer%20Color%20%5BYellow%201%5D%20(Drachenbauer).png
+)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/Bulldozer%20Color%20%5BYellow%201%5D%20(Drachenbauer).png
+)</kbd>
+
+<br>
+
+**Bulldozer Color [Yellow 2]** ([Drachenbauer](https://www.autohotkey.com/boards/memberlist.php?mode=viewprofile&u=112092))
+
+<kbd>[![Bulldozer Color [Yellow 2] (Drachenbauer)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/Bulldozer%20Color%20%5BYellow%202%5D%20(Drachenbauer).png
+)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/Bulldozer%20Color%20%5BYellow%202%5D%20(Drachenbauer).png
+)</kbd>
+
+<br>
+
 [![arrow-up](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/BulldozerDocs/images/icon-up.png)](#bulldozer)
 
 ## Hotkeys

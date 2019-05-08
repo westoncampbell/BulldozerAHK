@@ -54,9 +54,9 @@ All credit goes to John Hattan for the original idea of the Bulldozer game serie
 
 **Website Links:**
 
-![Github](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/BulldozerDocs/images/icon-github.png) Github: [https://github.com/westoncampbell/BulldozerAHK](https://github.com/westoncampbell/BulldozerAHK)
+[![Github](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/BulldozerDocs/images/icon-github.png)](#) Github: [https://github.com/westoncampbell/BulldozerAHK](https://github.com/westoncampbell/BulldozerAHK)
 
-![AutoHotkey](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/BulldozerDocs/images/icon-ahk.png) AutoHotkey: [https://www.autohotkey.com/boards/viewtopic.php?f=6&t=50139](https://www.autohotkey.com/boards/viewtopic.php?f=6&t=50139)
+[![AutoHotkey](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/BulldozerDocs/images/icon-ahk.png)](#) AutoHotkey: [https://www.autohotkey.com/boards/viewtopic.php?f=6&t=50139](https://www.autohotkey.com/boards/viewtopic.php?f=6&t=50139)
 
 <br>
 
@@ -91,13 +91,13 @@ The object of Bulldozer is to push each rock on to a target.
 ## Movement
 Move the bulldozer using the arrow keys, or WASD keys, on your keyboard. The bulldozer can move horizontally and vertically.
 
-![Fig 1](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/BulldozerDocs/images/Fig1.png)
+[![Fig 1](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/BulldozerDocs/images/Fig1.png)](#)
 
 The bulldozer will not move if one of the following three conditions are true:
 
 **(1) You are trying to push multiple rocks...**
 
-![Fig 2](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/BulldozerDocs/images/Fig2.png)
+[![Fig 2](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/BulldozerDocs/images/Fig2.png)](#)
 
 > You can only push one rock at a time!
 
@@ -105,7 +105,7 @@ The bulldozer will not move if one of the following three conditions are true:
 
 **(2) You are pushing against a wall. . .**
 
-![Fig 3](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/BulldozerDocs/images/Fig3.png)
+[![Fig 3](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/BulldozerDocs/images/Fig3.png)](#)
 
 > The bulldozer can't move through walls.
 
@@ -113,15 +113,15 @@ The bulldozer will not move if one of the following three conditions are true:
 
 **(3) You are pushing a rock against a wall. . .**
 
-![Fig 4](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/BulldozerDocs/images/Fig4.png)
+[![Fig 4](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/BulldozerDocs/images/Fig4.png)](#)
 
 > Be careful about pushing rocks against walls. The rock might become stuck, and you'll be forced to restart the level.
 
-![Fig 5](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/BulldozerDocs/images/Fig5.png)
+[![Fig 5](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/BulldozerDocs/images/Fig5.png)](#)
 
 > However, it may still be possible to reach the target depending on its position.
 
-![Fig 6](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/BulldozerDocs/images/Fig6.png)
+[![Fig 6](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/BulldozerDocs/images/Fig6.png)](#)
 
 <br>
 
@@ -351,7 +351,7 @@ Use an image editor to create a new theme, or choose from any of the available t
 
 <br>
 
-**Angry Birds** ([Drachenbauer](https://www.autohotkey.com/boards/memberlist.php?mode=viewprofile&u=112092)) ![Use Layered Tiles](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/BulldozerDocs/images/LayeredTiles16.png)
+**Angry Birds** ([Drachenbauer](https://www.autohotkey.com/boards/memberlist.php?mode=viewprofile&u=112092)) [![Use Layered Tiles](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/BulldozerDocs/images/LayeredTiles16.png)](#custom-themes)
 
 <kbd>[![Angry Birds (Drachenbauer)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/Angry%20Birds%20(Drachenbauer).png
 )](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/Angry%20Birds%20(Drachenbauer).png

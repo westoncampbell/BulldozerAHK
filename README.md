@@ -500,6 +500,8 @@ Use an image editor to create a new theme, or choose from any of the available t
 )](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/Bulldozer%20Monochrome%20%5BModified-Transparent%202%5D%20(Drachenbauer).png
 )</kbd>
 
+**Difficult to view on white webpage background color*
+
 <br>
 
 **Bulldozer Monochrome [Modified-Transparent 3]** ([Drachenbauer](https://www.autohotkey.com/boards/memberlist.php?mode=viewprofile&u=112092))
@@ -507,6 +509,8 @@ Use an image editor to create a new theme, or choose from any of the available t
 <kbd>[![Bulldozer Monochrome [Modified-Transparent 3] (Drachenbauer)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/Bulldozer%20Monochrome%20%5BModified-Transparent%203%5D%20(Drachenbauer).png
 )](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/Bulldozer%20Monochrome%20%5BModified-Transparent%203%5D%20(Drachenbauer).png
 )</kbd>
+
+**Difficult to view on white webpage background color*
 
 <br>
 

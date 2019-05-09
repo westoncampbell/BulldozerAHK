@@ -265,6 +265,12 @@ Use an image editor to create a new theme, or choose from any of the available t
 
 <br>
 
+**Mario** ([Weston Campbell](https://www.autohotkey.com/boards/memberlist.php?mode=viewprofile&u=56166)) [[Resource](https://www.spriters-resource.com/nes/supermariobros/)]
+
+<kbd>[![Mario (Weston Campbell)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/Mario%20(TheDewd).png)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/Mario%20(TheDewd).png)</kbd>
+
+<br>
+
 **Mario Bros.** ([Weston Campbell](https://www.autohotkey.com/boards/memberlist.php?mode=viewprofile&u=56166)) [[Resource](https://www.spriters-resource.com/nes/supermariobros/)]
 
 <kbd>[![Mario Bros. (Weston Campbell)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/Mario%20Bros%20(TheDewd).png)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/Mario%20Bros%20(TheDewd).png)</kbd>
@@ -357,6 +363,30 @@ Use an image editor to create a new theme, or choose from any of the available t
 
 <kbd>[![Angry Birds - Stella (Drachenbauer)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/Angry%20Birds%20-%20Stella%20(Drachenbauer).png
 )](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/Angry%20Birds%20-%20Stella%20(Drachenbauer).png
+)</kbd>
+
+<br>
+
+**Angry Birds - Chuck** ([Drachenbauer](https://www.autohotkey.com/boards/memberlist.php?mode=viewprofile&u=112092)) [![Use Layered Tiles](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/BulldozerDocs/images/LayeredTiles16.png)](#layered-tiles) Uses Layered Tiles
+
+<kbd>[![Angry Birds - Chuck (Drachenbauer)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/Angry%20Birds%20-%20Chuck%20(Drachenbauer).png
+)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/Angry%20Birds%20-%20Chuck%20(Drachenbauer).png
+)</kbd>
+
+<br>
+
+**Angry Birds - Red** ([Drachenbauer](https://www.autohotkey.com/boards/memberlist.php?mode=viewprofile&u=112092)) [![Use Layered Tiles](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/BulldozerDocs/images/LayeredTiles16.png)](#layered-tiles) Uses Layered Tiles
+
+<kbd>[![Angry Birds - Red (Drachenbauer)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/Angry%20Birds%20-%20Red%20(Drachenbauer).png
+)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/Angry%20Birds%20-%20Red%20(Drachenbauer).png
+)</kbd>
+
+<br>
+
+**Angry Birds - The Blues** ([Drachenbauer](https://www.autohotkey.com/boards/memberlist.php?mode=viewprofile&u=112092)) [![Use Layered Tiles](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/BulldozerDocs/images/LayeredTiles16.png)](#layered-tiles) Uses Layered Tiles
+
+<kbd>[![Angry Birds - The Blues (Drachenbauer)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/Angry%20Birds%20-%20The%20Blues%20(Drachenbauer).png
+)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/Angry%20Birds%20-%20The%20Blues%20(Drachenbauer).png
 )</kbd>
 
 <br>

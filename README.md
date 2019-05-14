@@ -391,6 +391,30 @@ Use an image editor to create a new theme, or choose from any of the available t
 
 <br>
 
+**Angry Birds - Terence** ([Drachenbauer](https://www.autohotkey.com/boards/memberlist.php?mode=viewprofile&u=112092)) [![Use Layered Tiles](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/BulldozerDocs/images/LayeredTiles16.png)](#layered-tiles) Uses Layered Tiles
+
+<kbd>[![Angry Birds - Terence (Drachenbauer)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/Angry%20Birds%20-%20Terence.png
+)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/Angry%20Birds%20-%20Terence.png
+)</kbd>
+
+<br>
+
+**Angry Birds - Mathilda** ([Drachenbauer](https://www.autohotkey.com/boards/memberlist.php?mode=viewprofile&u=112092)) [![Use Layered Tiles](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/BulldozerDocs/images/LayeredTiles16.png)](#layered-tiles) Uses Layered Tiles
+
+<kbd>[![Angry Birds - Mathilda (Drachenbauer)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/Angry%20Birds%20-%20Mathilda.png
+)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/Angry%20Birds%20-%20Mathilda.png
+)</kbd>
+
+<br>
+
+**Angry Birds - Bomb** ([Drachenbauer](https://www.autohotkey.com/boards/memberlist.php?mode=viewprofile&u=112092)) [![Use Layered Tiles](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/BulldozerDocs/images/LayeredTiles16.png)](#layered-tiles) Uses Layered Tiles
+
+<kbd>[![Angry Birds - Bomb (Drachenbauer)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/Angry%20Birds%20-%20Bomb.png
+)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/Angry%20Birds%20-%20Bomb.png
+)</kbd>
+
+<br>
+
 **Butterfly** ([Drachenbauer](https://www.autohotkey.com/boards/memberlist.php?mode=viewprofile&u=112092))
 
 <kbd>[![Butterfly (Drachenbauer)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/Butterfly%20(Drachenbauer).png

@@ -413,6 +413,32 @@ Use an image editor to create a new theme, or choose from any of the available t
 )](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/Angry%20Birds%20-%20Bomb%20(Drachenbauer).png
 )</kbd>
 
+
+<br>
+
+**Angry Birds - Silver** ([Drachenbauer](https://www.autohotkey.com/boards/memberlist.php?mode=viewprofile&u=112092)) [![Use Layered Tiles](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/BulldozerDocs/images/LayeredTiles16.png)](#layered-tiles) Uses Layered Tiles
+
+<kbd>[![Angry Birds - Silver (Drachenbauer)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/Angry%20Birds%20-%20Silver%20(Drachenbauer).png
+)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/Angry%20Birds%20-%20Silver%20(Drachenbauer).png
+)</kbd>
+
+<br>
+
+**Angry Birds - Hal** ([Drachenbauer](https://www.autohotkey.com/boards/memberlist.php?mode=viewprofile&u=112092)) [![Use Layered Tiles](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/BulldozerDocs/images/LayeredTiles16.png)](#layered-tiles) Uses Layered Tiles
+
+<kbd>[![Angry Birds - Hal (Drachenbauer)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/Angry%20Birds%20-%20Hal%20(Drachenbauer).png
+)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/Angry%20Birds%20-%20Hal%20(Drachenbauer).png
+)</kbd>
+
+<br>
+
+**Angry Birds - Bubbles** ([Drachenbauer](https://www.autohotkey.com/boards/memberlist.php?mode=viewprofile&u=112092)) [![Use Layered Tiles](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/BulldozerDocs/images/LayeredTiles16.png)](#layered-tiles) Uses Layered Tiles
+
+<kbd>[![Angry Birds - Hal (Drachenbauer)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/Angry%20Birds%20-%20Bubbles%20(Drachenbauer).png
+)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/Angry%20Birds%20-%20Bubbles%20(Drachenbauer).png
+
+)</kbd>
+
 <br>
 
 **Butterfly** ([Drachenbauer](https://www.autohotkey.com/boards/memberlist.php?mode=viewprofile&u=112092))

@@ -436,7 +436,6 @@ Use an image editor to create a new theme, or choose from any of the available t
 
 <kbd>[![Angry Birds - Hal (Drachenbauer)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/Angry%20Birds%20-%20Bubbles%20(Drachenbauer).png
 )](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/Angry%20Birds%20-%20Bubbles%20(Drachenbauer).png
-
 )</kbd>
 
 <br>

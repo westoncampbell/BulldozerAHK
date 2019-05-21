@@ -807,6 +807,12 @@ Use an image editor to create a new theme, or choose from any of the available t
 
 <br>
 
+**LOZ - Oracle of Ages** ([Weston Campbell](https://www.autohotkey.com/boards/memberlist.php?mode=viewprofile&u=56166)) [[Resource](https://www.spriters-resource.com/game_boy_gbc/thelegendofzeldaoracleofages/sheet/116938/)] [![Use Layered Tiles](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/BulldozerDocs/images/LayeredTiles16.png)](#layered-tiles) Uses Layered Tiles
+
+<kbd>[![LOZ - Oracle of Ages (Weston Campbell)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/LOZ%20-%20Oracle%20of%20Ages%20(TheDewd).png)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/LOZ%20-%20Oracle%20of%20Ages%20(TheDewd).png)</kbd>
+
+<br>
+
 [![arrow-up](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/BulldozerDocs/images/icon-up.png)](#bulldozer)
 
 ## Hotkeys

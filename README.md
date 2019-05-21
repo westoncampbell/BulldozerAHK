@@ -571,6 +571,30 @@ Use an image editor to create a new theme, or choose from any of the available t
 
 <br>
 
+**Bulldozer Color [Blue 1]** ([Drachenbauer](https://www.autohotkey.com/boards/memberlist.php?mode=viewprofile&u=112092))
+
+<kbd>[![Bulldozer Color [Blue 1] (Drachenbauer)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/Bulldozer%20Color%20%5BBlue%201%5D%20(Drachenbauer).png
+)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/Bulldozer%20Color%20%5BBlue%201%5D%20(Drachenbauer).png
+)</kbd>
+
+<br>
+
+**Bulldozer Color [Blue 2]** ([Drachenbauer](https://www.autohotkey.com/boards/memberlist.php?mode=viewprofile&u=112092))
+
+<kbd>[![Bulldozer Color [Blue 2] (Drachenbauer)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/Bulldozer%20Color%20%5BBlue%202%5D%20(Drachenbauer).png
+)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/Bulldozer%20Color%20%5BBlue%202%5D%20(Drachenbauer).png
+)</kbd>
+
+<br>
+
+**Bulldozer Color [Blue 3]** ([Drachenbauer](https://www.autohotkey.com/boards/memberlist.php?mode=viewprofile&u=112092))
+
+<kbd>[![Bulldozer Color [Blue 3] (Drachenbauer)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/Bulldozer%20Color%20%5BBlue%203%5D%20(Drachenbauer).png
+)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/Bulldozer%20Color%20%5BBlue%203%5D%20(Drachenbauer).png
+)</kbd>
+
+<br>
+
 **Bulldozer Monochrome [Modified]** ([Drachenbauer](https://www.autohotkey.com/boards/memberlist.php?mode=viewprofile&u=112092))
 
 <kbd>[![Bulldozer Monochrome [Modified] (Drachenbauer)](https://raw.githubusercontent.com/westoncampbell/BulldozerAHK/master/Themes/Bulldozer%20Monochrome%20%5BModified%5D%20(Drachenbauer).png
